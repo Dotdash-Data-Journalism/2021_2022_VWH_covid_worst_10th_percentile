@@ -3,9 +3,11 @@ library(dplyr)
 library(rjson)
 library(readxl)
 library(magrittr)
-library(DatawRappr)
 library(stringr)
 library(readr)
+library(httr)
+library(tidyselect)
+library(rlist)
 
 DW_API <- Sys.getenv("DW_API_KEY")
 
@@ -37,7 +39,7 @@ read_excel('./all-geocodes-v2018.xlsx', skip = 4) %>%
 # Downloading Texas vaccine data from their Excel sheet...because Texas.
 download.file("https://dshs.texas.gov/immunize/covid19/COVID-19-Vaccine-Data-by-County.xls", 
               destfile = "COVID-19 Vaccine Data by County.xlsx")
-
+Sys.sleep(5)
 # Cleaning and organizing the Texas vaccine by county data
 read_excel("./COVID-19 Vaccine Data by County.xlsx", skip = 4,
            sheet = "By County", col_names = F) %>% 
@@ -65,7 +67,7 @@ bind_rows(cdcVaxByCounty, txVax) %>%
 # 10th percentile and worse for Covid cases in the country.
 # This also have poverty rate, uninsurance rate, and total population 
 # by county data.
-
+Sys.sleep(5)
 fromJSON(file = "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=integrated_county_latest_external_data") %>% 
   extract2("integrated_county_latest_external_data") %>%   
   map_df(safe_extract) %>% 
@@ -212,9 +214,28 @@ combo <- casesUninsurancePovertyCounty %>%
 
 ### CSV for county map ###
 write_csv(combo, "./chartData/10thWorstPctCountyMap.csv")
-
+Sys.sleep(5)
 ### Updating the Datawrapper Chart ###
+
+
 dw_data_to_chart(x = combo, chart_id = "I3Kke", api_key = DW_API)
+
+chart_body <- combo %>% 
+  mutate(across(function(x) inherits(x, "Date"), as.character)) %>% 
+  format_csv()
+
+chartres <- PUT(url = "https://api.datawrapper.de/v3/charts/I3Kke/data",
+    add_headers(authorization = paste("Bearer", 
+                                      DW_API, 
+                                      sep = " ")),
+    body = chart_body)
+
+if (httr::status_code(chartres) %in% c(200, 201, 202, 204)) {
+  print(paste0("Data in chart successfully updated.", "\n"))
+} else {
+  stop(paste0("There has been an error in the upload process. Statuscode of the response: ", httr::status_code(r)), immediate. = TRUE)
+}
+
 
 combo %>% 
   group_by(State_name) %>% 
@@ -224,11 +245,28 @@ combo %>%
 
 highestStates <- mostStates[1:3]
 
-dw_edit_chart(chart_id = "I3Kke",
-              intro = paste0(mostStates[1], ", ", mostStates[2], ", and ", 
-                             mostStates[3], " have the most counties with the highest COVID-19 exposure"),
-              annotate = paste0("Data is as of ", format(base::as.Date(unique(combo$Date)),
-                                                         "%m/%d/%Y")),
-              api_key = DW_API)
+call_body <- list(metadata = list())
+
+call_body$metadata$describe$intro <- paste0(mostStates[1], ", ", 
+                                            mostStates[2], ", and ", 
+                                            mostStates[3], 
+                                            " have the most counties with the highest COVID-19 exposure")
+
+call_body$metadata$annotate$notes <- paste0("Data is as of ", 
+                                            format(base::as.Date(unique(combo$Date)),
+                                                                     "%m/%d/%Y"))
+
+notes_res <- PATCH(url = "https://api.datawrapper.de/v3/charts/I3Kke",
+                   add_headers(authorization = paste("Bearer", DW_API, 
+                                                     sep = " ")),
+                   body = call_body,
+                   encode = "json")
 
 
+if (httr::status_code(notes_res) %in% c(200, 201, 202, 204)) {
+  
+  print(paste0("Chart succesfully updated.", "\n"))
+  
+} else {
+  stop(paste0("There has been an error in the upload process. Statuscode of the response: ", httr::status_code(r)), immediate. = TRUE)
+}
