@@ -216,9 +216,6 @@ write_csv(combo, "./chartData/10thWorstPctCountyMap.csv")
 Sys.sleep(5)
 ### Updating the Datawrapper Chart ###
 
-
-dw_data_to_chart(x = combo, chart_id = "I3Kke", api_key = DW_API)
-
 chart_body <- combo %>% 
   mutate(across(function(x) inherits(x, "Date"), as.character)) %>% 
   format_csv()
