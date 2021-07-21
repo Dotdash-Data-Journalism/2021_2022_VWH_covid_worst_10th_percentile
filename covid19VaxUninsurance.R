@@ -6,6 +6,8 @@ library(magrittr)
 library(DatawRappr)
 library(stringr)
 
+DW_API <- Sys.getenv("DW_API_KEY")
+
 # A function to throw to map_df() to ensure null values are coded as NA
 safe_extract <- function(l, wut) {
   res <- l[wut]
@@ -211,7 +213,7 @@ combo <- casesUninsurancePovertyCounty %>%
 write_csv(combo, "./chartData/10thWorstPctCountyMap.csv")
 
 ### Updating the Datawrapper Chart ###
-dw_data_to_chart(x = combo, chart_id = "I3Kke")
+dw_data_to_chart(x = combo, chart_id = "I3Kke", api_key = DW_API)
 
 combo %>% 
   group_by(State_name) %>% 
@@ -225,6 +227,7 @@ dw_edit_chart(chart_id = "I3Kke",
               intro = paste0(mostStates[1], ", ", mostStates[2], ", and ", 
                              mostStates[3], " have the most counties with the highest COVID-19 exposure"),
               annotate = paste0("Data is as of ", format(base::as.Date(unique(combo$Date)),
-                                                         "%m/%d/%Y")))
+                                                         "%m/%d/%Y")),
+              api_key = DW_API)
 
 
