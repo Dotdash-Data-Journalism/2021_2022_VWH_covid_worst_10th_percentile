@@ -5,6 +5,7 @@ library(readxl)
 library(magrittr)
 library(DatawRappr)
 library(stringr)
+library(readr)
 
 DW_API <- Sys.getenv("DW_API_KEY")
 
