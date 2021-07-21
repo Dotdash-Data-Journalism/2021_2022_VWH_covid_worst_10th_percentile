@@ -6,7 +6,6 @@ library(magrittr)
 library(stringr)
 library(readr)
 library(httr)
-library(tidyselect)
 library(rlist)
 
 DW_API <- Sys.getenv("DW_API_KEY")
