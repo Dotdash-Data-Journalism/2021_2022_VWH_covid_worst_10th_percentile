@@ -3,24 +3,24 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 01023,Alabama,Choctaw County,2021-08-08,suppressed,11.4,22.2,9.2,10.5,12589,0,2021-08-08,Alabama,AL,Choctaw County,47.9,66.2,0.6402000625195373,58.7
 02013,Alaska,Aleutians East Borough,2021-08-08,suppressed,45.6,15.4,9.2,10.5,3337,0,2021-08-08,Alaska,AK,Aleutians East Borough,69.9,76.2,0.9596748984057518,58.7
 02016,Alaska,Aleutians West CA,2021-08-08,suppressed,18.8,8.5,9.2,10.5,5634,0,2021-08-08,Alaska,AK,Aleutians West CA,56.1,67,0.8133791809940606,58.7
-02068,Alaska,Denali Borough,2021-08-08,suppressed,19.2,16.9,9.2,10.5,2097,0,2021-08-08,Alaska,AK,Denali Borough,49.3,56.3,0.6789621756798999,58.7
+02068,Alaska,Denali Borough,2021-08-08,suppressed,19.2,16.9,9.2,10.5,2097,0,2021-08-08,Alaska,AK,Denali Borough,49.3,56.3,0.6786495779931229,58.7
 02070,Alaska,Dillingham CA,2021-08-08,suppressed,22.4,17.2,9.2,10.5,4916,0,2021-08-08,Alaska,AK,Dillingham CA,51.1,55.9,0.7149109096592685,58.7
 02105,Alaska,Hoonah-Angoon CA,2021-08-08,suppressed,25.1,9.7,9.2,10.5,2148,0,2021-08-08,Alaska,AK,Hoonah-Angoon CA,69.9,74.8,0.9596748984057518,58.7
 02164,Alaska,Lake and Peninsula Borough,2021-08-08,suppressed,31.6,15.9,9.2,10.5,1592,0,2021-08-08,Alaska,AK,Lake and Peninsula Borough,60.6,68.8,0.8824632697718037,58.7
 02195,Alaska,Petersburg CA,2021-08-08,suppressed,9.1,8.2,9.2,10.5,3266,0,2021-08-08,Alaska,AK,Petersburg CA,73.4,77.2,0.9790559549859331,58.7
 02230,Alaska,Skagway Muny,2021-08-08,suppressed,18.9,5.3,9.2,10.5,1183,0,2021-08-08,Alaska,AK,Skagway Muny,71.3,76.4,0.9671772428884027,58.7
-02240,Alaska,Southeast Fairbanks CA,2021-08-08,suppressed,15.6,10.8,9.2,10.5,6893,0,2021-08-08,Alaska,AK,Southeast Fairbanks CA,28.8,33.8,0.13754298218193187,58.7
+02240,Alaska,Southeast Fairbanks CA,2021-08-08,suppressed,15.6,10.8,9.2,10.5,6893,0,2021-08-08,Alaska,AK,Southeast Fairbanks CA,28.8,33.8,0.13723038449515473,58.7
 02275,Alaska,Wrangell Cty&Bor,2021-08-08,suppressed,15,7.8,9.2,10.5,2502,0,2021-08-08,Alaska,AK,Wrangell Cty&Bor,56.9,57.6,0.8252578930915911,58.7
 02290,Alaska,Yukon-Koyukuk CA,2021-08-08,suppressed,29.2,25.1,9.2,10.5,5230,0,2021-08-08,Alaska,AK,Yukon-Koyukuk CA,70.9,76.8,0.9649890590809628,58.7
 08009,Colorado,Baca County,2021-08-08,suppressed,6.8,19.2,9.2,10.5,3581,0,2021-08-08,Colorado,CO,Baca County,37,39.3,0.32103782432010003,58.7
 08017,Colorado,Cheyenne County,2021-08-08,suppressed,11.2,11.5,9.2,10.5,1831,0,2021-08-08,Colorado,CO,Cheyenne County,29.7,NA,0.14973429196623944,58.7
-08021,Colorado,Conejos County,2021-08-08,suppressed,13.5,22.4,9.2,10.5,8205,0,2021-08-08,Colorado,CO,Conejos County,44.9,48.2,0.5708033760550172,58.7
-08023,Colorado,Costilla County,2021-08-08,suppressed,11.6,30.1,9.2,10.5,3887,0,2021-08-08,Colorado,CO,Costilla County,57.5,NA,0.8365114098155674,58.7
+08021,Colorado,Conejos County,2021-08-08,suppressed,13.5,22.4,9.2,10.5,8205,0,2021-08-08,Colorado,CO,Conejos County,44.9,48.2,0.57049077836824,58.7
+08023,Colorado,Costilla County,2021-08-08,suppressed,11.6,30.1,9.2,10.5,3887,0,2021-08-08,Colorado,CO,Costilla County,57.5,NA,0.8358862144420132,58.7
 08025,Colorado,Crowley County,2021-08-08,suppressed,7,28.4,9.2,10.5,6061,0,2021-08-08,Colorado,CO,Crowley County,18.1,19.4,0.061894341981869334,58.7
 08047,Colorado,Gilpin County,2021-08-08,suppressed,4.6,4.1,9.2,10.5,6243,0,2021-08-08,Colorado,CO,Gilpin County,53.6,58.4,0.7671147233510472,58.7
 08053,Colorado,Hinsdale County,2021-08-08,suppressed,10.3,13,9.2,10.5,820,0,2021-08-08,Colorado,CO,Hinsdale County,55.3,NA,0.7968115035948734,58.7
-08055,Colorado,Huerfano County,2021-08-08,suppressed,8.6,16,9.2,10.5,6897,0,2021-08-08,Colorado,CO,Huerfano County,49.2,52.7,0.6767739918724601,58.7
-08057,Colorado,Jackson County,2021-08-08,suppressed,10.6,15.7,9.2,10.5,1392,0,2021-08-08,Colorado,CO,Jackson County,40.5,NA,0.4420131291028446,58.7
+08055,Colorado,Huerfano County,2021-08-08,suppressed,8.6,16,9.2,10.5,6897,0,2021-08-08,Colorado,CO,Huerfano County,49.2,52.7,0.6764613941856831,58.7
+08057,Colorado,Jackson County,2021-08-08,suppressed,10.6,15.7,9.2,10.5,1392,0,2021-08-08,Colorado,CO,Jackson County,40.5,NA,0.4413879337292904,58.7
 08061,Colorado,Kiowa County,2021-08-08,suppressed,5.9,11.3,9.2,10.5,1406,0,2021-08-08,Colorado,CO,Kiowa County,37.1,39.3,0.32603938730853393,58.7
 08065,Colorado,Lake County,2021-08-08,suppressed,14.7,16.5,9.2,10.5,8127,0,2021-08-08,Colorado,CO,Lake County,56.3,63.6,0.8161925601750547,58.7
 08073,Colorado,Lincoln County,2021-08-08,suppressed,4,13.4,9.2,10.5,5701,0,2021-08-08,Colorado,CO,Lincoln County,32.1,34.2,0.19568615192247577,58.7
@@ -45,9 +45,9 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 16007,Idaho,Bear Lake County,2021-08-08,suppressed,6.3,16.9,9.2,10.5,6125,0,2021-08-08,Idaho,ID,Bear Lake County,41.9,45.3,0.4873397936855267,58.7
 16023,Idaho,Butte County,2021-08-08,suppressed,12.4,16.2,9.2,10.5,2597,0,2021-08-08,Idaho,ID,Butte County,38.8,42.4,0.3851203501094092,58.7
 16029,Idaho,Caribou County,2021-08-08,suppressed,7.8,8.5,9.2,10.5,7155,0,2021-08-08,Idaho,ID,Caribou County,34.2,36.8,0.24476398874648328,58.7
-16041,Idaho,Franklin County,2021-08-08,suppressed,10.4,11.8,9.2,10.5,13876,0,2021-08-08,Idaho,ID,Franklin County,36.4,40.5,0.30790872147546106,58.7
+16041,Idaho,Franklin County,2021-08-08,suppressed,10.4,11.8,9.2,10.5,13876,0,2021-08-08,Idaho,ID,Franklin County,36.4,40.5,0.30759612378868395,58.7
 16059,Idaho,Lemhi County,2021-08-08,suppressed,12.5,13.1,9.2,10.5,8027,0,2021-08-08,Idaho,ID,Lemhi County,41.7,45.4,0.4814004376367615,58.7
-16061,Idaho,Lewis County,2021-08-08,suppressed,14.5,14.2,9.2,10.5,3838,0,2021-08-08,Idaho,ID,Lewis County,42.1,46.2,0.4951547358549547,58.7
+16061,Idaho,Lewis County,2021-08-08,suppressed,14.5,14.2,9.2,10.5,3838,0,2021-08-08,Idaho,ID,Lewis County,42.1,46.2,0.49484213816817757,58.7
 16063,Idaho,Lincoln County,2021-08-08,suppressed,22.2,13.4,9.2,10.5,5366,0,2021-08-08,Idaho,ID,Lincoln County,33.5,37.7,0.22850890903407314,58.7
 16071,Idaho,Oneida County,2021-08-08,suppressed,7.4,13,9.2,10.5,4531,0,2021-08-08,Idaho,ID,Oneida County,36.7,41.2,0.31447327289778054,58.7
 16073,Idaho,Owyhee County,2021-08-08,suppressed,23.9,21.1,9.2,10.5,11823,0,2021-08-08,Idaho,ID,Owyhee County,27.2,30.7,0.11597374179431072,58.7
@@ -55,13 +55,13 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 16087,Idaho,Washington County,2021-08-08,suppressed,15.1,15.7,9.2,10.5,10194,0,2021-08-08,Idaho,ID,Washington County,35.6,39.6,0.28633948108783996,58.7
 17035,Illinois,Cumberland County,2021-08-08,suppressed,4.7,14,9.2,10.5,10766,0,2021-08-08,Illinois,IL,Cumberland County,31.7,41.5,0.18474523288527664,58.7
 17085,Illinois,Jo Daviess County,2021-08-08,suppressed,4.7,8.3,9.2,10.5,21235,0,2021-08-08,Illinois,IL,Jo Daviess County,71.4,85.1,0.9681150359487339,58.7
-17131,Illinois,Mercer County,2021-08-08,suppressed,2.4,11.4,9.2,10.5,15437,0,2021-08-08,Illinois,IL,Mercer County,51.3,64.3,0.7180368865270397,58.7
+17131,Illinois,Mercer County,2021-08-08,suppressed,2.4,11.4,9.2,10.5,15437,0,2021-08-08,Illinois,IL,Mercer County,51.3,64.3,0.7177242888402626,58.7
 17155,Illinois,Putnam County,2021-08-08,suppressed,2.5,8.8,9.2,10.5,5739,0,2021-08-08,Illinois,IL,Putnam County,49.4,63,0.6808377618005627,58.7
 17175,Illinois,Stark County,2021-08-08,suppressed,6.6,16.1,9.2,10.5,5342,0,2021-08-08,Illinois,IL,Stark County,49,56.7,0.670834635823695,58.7
 18025,Indiana,Crawford County,2021-08-08,suppressed,7.2,15.5,9.2,10.5,10577,0,2021-08-08,Indiana,IN,Crawford County,34.9,37.9,0.2675836198812129,58.7
 18101,Indiana,Martin County,2021-08-08,suppressed,9.2,12.4,9.2,10.5,10255,0,2021-08-08,Indiana,IN,Martin County,45.5,48.4,0.5883088465145357,58.7
 18115,Indiana,Ohio County,2021-08-08,suppressed,5.8,6.1,9.2,10.5,5875,0,2021-08-08,Indiana,IN,Ohio County,69,73.8,0.9552985307908721,58.7
-18161,Indiana,Union County,2021-08-08,suppressed,8.6,8.8,9.2,10.5,7054,0,2021-08-08,Indiana,IN,Union County,42.1,44.9,0.4951547358549547,58.7
+18161,Indiana,Union County,2021-08-08,suppressed,8.6,8.8,9.2,10.5,7054,0,2021-08-08,Indiana,IN,Union County,42.1,44.9,0.49484213816817757,58.7
 19001,Iowa,Adair County,2021-08-08,suppressed,6.3,9.1,9.2,10.5,7152,0,2021-08-08,Iowa,IA,Adair County,47.8,51.8,0.6380118787120975,58.7
 19003,Iowa,Adams County,2021-08-08,suppressed,5.5,11.5,9.2,10.5,3602,0,2021-08-08,Iowa,IA,Adams County,51.6,55.3,0.723976242575805,58.7
 19009,Iowa,Audubon County,2021-08-08,suppressed,5.4,10.2,9.2,10.5,5496,0,2021-08-08,Iowa,IA,Audubon County,58.3,61,0.849015317286652,58.7
@@ -77,7 +77,7 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 19107,Iowa,Keokuk County,2021-08-08,suppressed,3.8,10.4,9.2,10.5,10246,0,2021-08-08,Iowa,IA,Keokuk County,45.4,48.7,0.5854954673335417,58.7
 19119,Iowa,Lyon County,2021-08-08,suppressed,4.5,4.9,9.2,10.5,11755,0,2021-08-08,Iowa,IA,Lyon County,41.2,43.5,0.4679587371053454,58.7
 19133,Iowa,Monona County,2021-08-08,suppressed,5.9,15.7,9.2,10.5,8615,0,2021-08-08,Iowa,IA,Monona County,52.4,55.5,0.7430447014692091,58.7
-19135,Iowa,Monroe County,2021-08-08,suppressed,7.5,11.7,9.2,10.5,7707,0,2021-08-08,Iowa,IA,Monroe County,44.9,48,0.5708033760550172,58.7
+19135,Iowa,Monroe County,2021-08-08,suppressed,7.5,11.7,9.2,10.5,7707,0,2021-08-08,Iowa,IA,Monroe County,44.9,48,0.57049077836824,58.7
 19137,Iowa,Montgomery County,2021-08-08,suppressed,3.7,16.1,9.2,10.5,9917,0,2021-08-08,Iowa,IA,Montgomery County,53.5,58.3,0.763988746483276,58.7
 19141,Iowa,O'Brien County,2021-08-08,suppressed,4.6,9.7,9.2,10.5,13753,0,2021-08-08,Iowa,IA,O'Brien County,50.2,53,0.6958424507658644,58.7
 19143,Iowa,Osceola County,2021-08-08,suppressed,5.4,12,9.2,10.5,5958,0,2021-08-08,Iowa,IA,Osceola County,45.4,47.5,0.5854954673335417,58.7
@@ -88,21 +88,21 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 19159,Iowa,Ringgold County,2021-08-08,suppressed,5.8,10.1,9.2,10.5,4894,0,2021-08-08,Iowa,IA,Ringgold County,49.6,53.1,0.6849015317286652,58.7
 19161,Iowa,Sac County,2021-08-08,suppressed,5,10.6,9.2,10.5,9721,0,2021-08-08,Iowa,IA,Sac County,50.8,53.9,0.7089715536105032,58.7
 19175,Iowa,Union County,2021-08-08,suppressed,6.7,14.3,9.2,10.5,12241,0,2021-08-08,Iowa,IA,Union County,48.5,52.7,0.658018130665833,58.7
-19177,Iowa,Van Buren County,2021-08-08,suppressed,12.5,13.1,9.2,10.5,7044,0,2021-08-08,Iowa,IA,Van Buren County,39.8,42.5,0.4166927164738981,58.7
-19185,Iowa,Wayne County,2021-08-08,suppressed,12.3,15.2,9.2,10.5,6441,0,2021-08-08,Iowa,IA,Wayne County,40.8,44.1,0.45264145045326665,58.7
+19177,Iowa,Van Buren County,2021-08-08,suppressed,12.5,13.1,9.2,10.5,7044,0,2021-08-08,Iowa,IA,Van Buren County,39.8,42.5,0.416380118787121,58.7
+19185,Iowa,Wayne County,2021-08-08,suppressed,12.3,15.2,9.2,10.5,6441,0,2021-08-08,Iowa,IA,Wayne County,40.8,44.1,0.45232885276648954,58.7
 19189,Iowa,Winnebago County,2021-08-08,suppressed,2.7,8.4,9.2,10.5,10354,0,2021-08-08,Iowa,IA,Winnebago County,51,54.7,0.7124101281650516,58.7
 19191,Iowa,Winneshiek County,2021-08-08,suppressed,1.8,8.6,9.2,10.5,19991,0,2021-08-08,Iowa,IA,Winneshiek County,59,62.2,0.8583932478899656,58.7
-20017,Kansas,Chase County,2021-08-08,suppressed,8.9,12.6,9.2,10.5,2648,0,2021-08-08,Kansas,KS,Chase County,40.9,44.2,0.4567052203813692,58.7
+20017,Kansas,Chase County,2021-08-08,suppressed,8.9,12.6,9.2,10.5,2648,0,2021-08-08,Kansas,KS,Chase County,40.9,44.2,0.4563926226945921,58.7
 20019,Kansas,Chautauqua County,2021-08-08,suppressed,13.1,17,9.2,10.5,3250,0,2021-08-08,Kansas,KS,Chautauqua County,37.9,41.7,0.3544857768052516,58.7
-20023,Kansas,Cheyenne County,2021-08-08,suppressed,7.5,9.5,9.2,10.5,2657,0,2021-08-08,Kansas,KS,Cheyenne County,42.9,47.9,0.5160987808690216,58.7
+20023,Kansas,Cheyenne County,2021-08-08,suppressed,7.5,9.5,9.2,10.5,2657,0,2021-08-08,Kansas,KS,Cheyenne County,42.9,47.9,0.5157861831822445,58.7
 20025,Kansas,Clark County,2021-08-08,suppressed,8.5,11,9.2,10.5,1994,0,2021-08-08,Kansas,KS,Clark County,45.2,48.9,0.5798687089715536,58.7
-20033,Kansas,Comanche County,2021-08-08,suppressed,9.3,6.2,9.2,10.5,1700,0,2021-08-08,Kansas,KS,Comanche County,43.6,49.1,0.53579243513598,58.7
+20033,Kansas,Comanche County,2021-08-08,suppressed,9.3,6.2,9.2,10.5,1700,0,2021-08-08,Kansas,KS,Comanche County,43.6,49.1,0.5354798374492029,58.7
 20049,Kansas,Elk County,2021-08-08,suppressed,9.7,14.6,9.2,10.5,2530,0,2021-08-08,Kansas,KS,Elk County,30.3,34.1,0.1594248202563301,58.7
 20053,Kansas,Ellsworth County,2021-08-08,suppressed,5.4,11,9.2,10.5,6102,0,2021-08-08,Kansas,KS,Ellsworth County,50.5,54.6,0.7017818068146295,58.7
-20063,Kansas,Gove County,2021-08-08,suppressed,10.8,11.8,9.2,10.5,2636,0,2021-08-08,Kansas,KS,Gove County,47.3,54,0.6239449828071272,58.7
+20063,Kansas,Gove County,2021-08-08,suppressed,10.8,11.8,9.2,10.5,2636,0,2021-08-08,Kansas,KS,Gove County,47.3,54,0.6236323851203501,58.7
 20065,Kansas,Graham County,2021-08-08,suppressed,7.5,9.6,9.2,10.5,2482,0,2021-08-08,Kansas,KS,Graham County,71.2,74.4,0.9665520475148484,58.7
 20069,Kansas,Gray County,2021-08-08,suppressed,12.6,6,9.2,10.5,5988,0,2021-08-08,Kansas,KS,Gray County,35.3,42.7,0.2772741481713035,58.7
-20071,Kansas,Greeley County,2021-08-08,suppressed,5.8,8.5,9.2,10.5,1232,0,2021-08-08,Kansas,KS,Greeley County,49.8,53.5,0.6895904970303219,58.7
+20071,Kansas,Greeley County,2021-08-08,suppressed,5.8,8.5,9.2,10.5,1232,0,2021-08-08,Kansas,KS,Greeley County,49.8,53.5,0.6892778993435449,58.7
 20075,Kansas,Hamilton County,2021-08-08,suppressed,21.3,11.2,9.2,10.5,2539,0,2021-08-08,Kansas,KS,Hamilton County,35.9,39.9,0.29540481400437635,58.7
 20077,Kansas,Harper County,2021-08-08,suppressed,11.5,16.1,9.2,10.5,5436,0,2021-08-08,Kansas,KS,Harper County,43.8,48.2,0.541106595811191,58.7
 20081,Kansas,Haskell County,2021-08-08,suppressed,18.8,12.7,9.2,10.5,3968,0,2021-08-08,Kansas,KS,Haskell County,34.2,38.5,0.24476398874648328,58.7
@@ -112,7 +112,7 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 20101,Kansas,Lane County,2021-08-08,suppressed,10.7,12.8,9.2,10.5,1535,0,2021-08-08,Kansas,KS,Lane County,40.1,44.8,0.42638324476398876,58.7
 20105,Kansas,Lincoln County,2021-08-08,suppressed,10,9.2,9.2,10.5,2962,0,2021-08-08,Kansas,KS,Lincoln County,41.3,45.2,0.4692091278524539,58.7
 20115,Kansas,Marion County,2021-08-08,suppressed,6,9.3,9.2,10.5,11884,0,2021-08-08,Kansas,KS,Marion County,44,49.9,0.5457955611128478,58.7
-20119,Kansas,Meade County,2021-08-08,suppressed,12.9,12.2,9.2,10.5,4033,0,2021-08-08,Kansas,KS,Meade County,36.3,47.3,0.30540793998124416,58.7
+20119,Kansas,Meade County,2021-08-08,suppressed,12.9,12.2,9.2,10.5,4033,0,2021-08-08,Kansas,KS,Meade County,36.3,47.3,0.305095342294467,58.7
 20123,Kansas,Mitchell County,2021-08-08,suppressed,7.5,16.3,9.2,10.5,5979,0,2021-08-08,Kansas,KS,Mitchell County,51.7,56.2,0.7258518286964677,58.7
 20129,Kansas,Morton County,2021-08-08,suppressed,13.5,7.4,9.2,10.5,2587,0,2021-08-08,Kansas,KS,Morton County,35.4,39.5,0.2804001250390747,58.7
 20135,Kansas,Ness County,2021-08-08,suppressed,7.3,7.5,9.2,10.5,2750,0,2021-08-08,Kansas,KS,Ness County,45.7,53.1,0.5917474210690841,58.7
@@ -127,11 +127,11 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 20171,Kansas,Scott County,2021-08-08,suppressed,5.8,2.3,9.2,10.5,4823,0,2021-08-08,Kansas,KS,Scott County,41,46.9,0.4613941856830259,58.7
 20179,Kansas,Sheridan County,2021-08-08,suppressed,10.5,5.1,9.2,10.5,2521,0,2021-08-08,Kansas,KS,Sheridan County,34.4,37.5,0.2544545170365739,58.7
 20181,Kansas,Sherman County,2021-08-08,suppressed,7.8,19.1,9.2,10.5,5917,0,2021-08-08,Kansas,KS,Sherman County,40,44.5,0.4226320725226633,58.7
-20187,Kansas,Stanton County,2021-08-08,suppressed,11.3,14.7,9.2,10.5,2006,0,2021-08-08,Kansas,KS,Stanton County,45,49.8,0.5736167552360113,58.7
+20187,Kansas,Stanton County,2021-08-08,suppressed,11.3,14.7,9.2,10.5,2006,0,2021-08-08,Kansas,KS,Stanton County,45,49.8,0.5733041575492341,58.7
 20189,Kansas,Stevens County,2021-08-08,suppressed,16.4,18.1,9.2,10.5,5485,0,2021-08-08,Kansas,KS,Stevens County,28.1,33.8,0.12441387933729291,58.7
 20193,Kansas,Thomas County,2021-08-08,suppressed,6.8,11.1,9.2,10.5,7777,0,2021-08-08,Kansas,KS,Thomas County,39.5,43.7,0.40700218818380746,58.7
 20195,Kansas,Trego County,2021-08-08,suppressed,9.8,7.6,9.2,10.5,2803,0,2021-08-08,Kansas,KS,Trego County,34.6,38.6,0.2594560800250078,58.7
-20199,Kansas,Wallace County,2021-08-08,suppressed,7.7,11.7,9.2,10.5,1518,0,2021-08-08,Kansas,KS,Wallace County,36.3,38.3,0.30540793998124416,58.7
+20199,Kansas,Wallace County,2021-08-08,suppressed,7.7,11.7,9.2,10.5,1518,0,2021-08-08,Kansas,KS,Wallace County,36.3,38.3,0.305095342294467,58.7
 20201,Kansas,Washington County,2021-08-08,suppressed,4.7,13,9.2,10.5,5406,0,2021-08-08,Kansas,KS,Washington County,47.9,53.2,0.6402000625195373,58.7
 20203,Kansas,Wichita County,2021-08-08,suppressed,5.4,4.4,9.2,10.5,2119,0,2021-08-08,Kansas,KS,Wichita County,47.2,50.9,0.6214442013129103,58.7
 20207,Kansas,Woodson County,2021-08-08,suppressed,14.8,22,9.2,10.5,3138,0,2021-08-08,Kansas,KS,Woodson County,37.7,43.2,0.34604563926226944,58.7
@@ -140,37 +140,37 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 21181,Kentucky,Nicholas County,2021-08-08,suppressed,9.3,25.8,9.2,10.5,7269,0,2021-08-08,Kentucky,KY,Nicholas County,47.9,52.9,0.6402000625195373,58.7
 21201,Kentucky,Robertson County,2021-08-08,suppressed,7.7,27.1,9.2,10.5,2108,0,2021-08-08,Kentucky,KY,Robertson County,35.8,37.9,0.2913410440762738,58.7
 23023,Maine,Sagadahoc County,2021-08-08,suppressed,7,9.8,9.2,10.5,35856,0,2021-08-08,Maine,ME,Sagadahoc County,73.6,77.5,0.9799937480462645,58.7
-26001,Michigan,Alcona County,2021-08-08,suppressed,5.8,16,9.2,10.5,10405,0,2021-08-08,Michigan,MI,Alcona County,52.9,54.2,0.7530478274460769,58.7
+26001,Michigan,Alcona County,2021-08-08,suppressed,5.8,16,9.2,10.5,10405,0,2021-08-08,Michigan,MI,Alcona County,52.9,54.2,0.7527352297592997,58.7
 26011,Michigan,Arenac County,2021-08-08,suppressed,6.9,18.2,9.2,10.5,14883,0,2021-08-08,Michigan,MI,Arenac County,48.5,51.3,0.658018130665833,58.7
 26013,Michigan,Baraga County,2021-08-08,suppressed,5.2,16.4,9.2,10.5,8209,0,2021-08-08,Michigan,MI,Baraga County,53.5,56.9,0.763988746483276,58.7
-26019,Michigan,Benzie County,2021-08-08,suppressed,6.4,9.5,9.2,10.5,17766,0,2021-08-08,Michigan,MI,Benzie County,62.4,64.2,0.9024695217255392,58.7
+26019,Michigan,Benzie County,2021-08-08,suppressed,6.4,9.5,9.2,10.5,17766,0,2021-08-08,Michigan,MI,Benzie County,62.4,64.2,0.9021569240387621,58.7
 26033,Michigan,Chippewa County,2021-08-08,suppressed,7.4,18.5,9.2,10.5,37349,0,2021-08-08,Michigan,MI,Chippewa County,67,71.5,0.9440450140668959,58.7
 26039,Michigan,Crawford County,2021-08-08,suppressed,5.4,15.4,9.2,10.5,14029,0,2021-08-08,Michigan,MI,Crawford County,46.7,49,0.6120662707095967,58.7
 26043,Michigan,Dickinson County,2021-08-08,suppressed,4.6,13.3,9.2,10.5,25239,0,2021-08-08,Michigan,MI,Dickinson County,64,67.2,0.9187246014379493,58.7
 26071,Michigan,Iron County,2021-08-08,suppressed,7.1,14,9.2,10.5,11066,0,2021-08-08,Michigan,MI,Iron County,53.3,55.5,0.7608627696155048,58.7
 26085,Michigan,Lake County,2021-08-08,suppressed,7.5,23.8,9.2,10.5,11853,0,2021-08-08,Michigan,MI,Lake County,55.3,56.8,0.7968115035948734,58.7
-26095,Michigan,Luce County,2021-08-08,suppressed,5.8,16.6,9.2,10.5,6229,0,2021-08-08,Michigan,MI,Luce County,42.3,44.7,0.4989059080962801,58.7
+26095,Michigan,Luce County,2021-08-08,suppressed,5.8,16.6,9.2,10.5,6229,0,2021-08-08,Michigan,MI,Luce County,42.3,44.7,0.49859331040950294,58.7
 26097,Michigan,Mackinac County,2021-08-08,suppressed,10.6,15.9,9.2,10.5,10799,0,2021-08-08,Michigan,MI,Mackinac County,68.6,73.6,0.9534229446702095,58.7
 26113,Michigan,Missaukee County,2021-08-08,suppressed,8.9,15.6,9.2,10.5,15118,0,2021-08-08,Michigan,MI,Missaukee County,46,47.3,0.5983119724914036,58.7
 26133,Michigan,Osceola County,2021-08-08,suppressed,10.1,19.6,9.2,10.5,23460,0,2021-08-08,Michigan,MI,Osceola County,39.2,40,0.3973116598937168,58.7
-26135,Michigan,Oscoda County,2021-08-08,suppressed,13.2,17.3,9.2,10.5,8241,0,2021-08-08,Michigan,MI,Oscoda County,40.9,43.2,0.4567052203813692,58.7
+26135,Michigan,Oscoda County,2021-08-08,suppressed,13.2,17.3,9.2,10.5,8241,0,2021-08-08,Michigan,MI,Oscoda County,40.9,43.2,0.4563926226945921,58.7
 26137,Michigan,Otsego County,2021-08-08,suppressed,6.8,15,9.2,10.5,24668,0,2021-08-08,Michigan,MI,Otsego County,54.5,56,0.7821194123163488,58.7
 26141,Michigan,Presque Isle County,2021-08-08,suppressed,7.9,14.6,9.2,10.5,12592,0,2021-08-08,Michigan,MI,Presque Isle County,57,58.8,0.8274460768990309,58.7
-26143,Michigan,Roscommon County,2021-08-08,suppressed,7.6,18.2,9.2,10.5,24019,0,2021-08-08,Michigan,MI,Roscommon County,51.8,54,0.7286652078774617,58.7
+26143,Michigan,Roscommon County,2021-08-08,suppressed,7.6,18.2,9.2,10.5,24019,0,2021-08-08,Michigan,MI,Roscommon County,51.8,54,0.7283526101906845,58.7
 27001,Minnesota,Aitkin County,2021-08-08,suppressed,4.3,13,9.2,10.5,15886,0,2021-08-08,Minnesota,MN,Aitkin County,54.9,59.2,0.7911847452328853,58.7
 27011,Minnesota,Big Stone County,2021-08-08,suppressed,5.3,11.4,9.2,10.5,4991,0,2021-08-08,Minnesota,MN,Big Stone County,64,68.4,0.9187246014379493,58.7
 27023,Minnesota,Chippewa County,2021-08-08,suppressed,8,9.9,9.2,10.5,11800,0,2021-08-08,Minnesota,MN,Chippewa County,48.9,55.2,0.6680212566427008,58.7
-27029,Minnesota,Clearwater County,2021-08-08,suppressed,9.1,17,9.2,10.5,8818,0,2021-08-08,Minnesota,MN,Clearwater County,40.8,45,0.45264145045326665,58.7
+27029,Minnesota,Clearwater County,2021-08-08,suppressed,9.1,17,9.2,10.5,8818,0,2021-08-08,Minnesota,MN,Clearwater County,40.8,45,0.45232885276648954,58.7
 27031,Minnesota,Cook County,2021-08-08,suppressed,5.3,13,9.2,10.5,5463,0,2021-08-08,Minnesota,MN,Cook County,77,82.8,0.9887464832760238,58.7
 27033,Minnesota,Cottonwood County,2021-08-08,suppressed,5.2,12.5,9.2,10.5,11196,0,2021-08-08,Minnesota,MN,Cottonwood County,53.7,58.5,0.7696155048452642,58.7
 27051,Minnesota,Grant County,2021-08-08,suppressed,5.4,10.4,9.2,10.5,5972,0,2021-08-08,Minnesota,MN,Grant County,53.8,57,0.7714910909659268,58.7
 27063,Minnesota,Jackson County,2021-08-08,suppressed,3.1,7.8,9.2,10.5,9846,0,2021-08-08,Minnesota,MN,Jackson County,45.6,50.2,0.5889340418880901,58.7
-27069,Minnesota,Kittson County,2021-08-08,suppressed,6.3,10.6,9.2,10.5,4298,0,2021-08-08,Minnesota,MN,Kittson County,52.7,57.7,0.748046264457643,58.7
+27069,Minnesota,Kittson County,2021-08-08,suppressed,6.3,10.6,9.2,10.5,4298,0,2021-08-08,Minnesota,MN,Kittson County,52.7,57.7,0.747733666770866,58.7
 27071,Minnesota,Koochiching County,2021-08-08,suppressed,4,16.4,9.2,10.5,12229,0,2021-08-08,Minnesota,MN,Koochiching County,54.9,59.4,0.7911847452328853,58.7
 27073,Minnesota,Lac qui Parle County,2021-08-08,suppressed,2.2,8.5,9.2,10.5,6623,0,2021-08-08,Minnesota,MN,Lac qui Parle County,55.7,58.5,0.8043138480775243,58.7
 27075,Minnesota,Lake County,2021-08-08,suppressed,4.1,8.5,9.2,10.5,10641,0,2021-08-08,Minnesota,MN,Lake County,63.7,67,0.9159112222569553,58.7
 27077,Minnesota,Lake of the Woods County,2021-08-08,suppressed,3.5,9.2,9.2,10.5,3740,0,2021-08-08,Minnesota,MN,Lake of the Woods County,53.2,56.7,0.7583619881212879,58.7
-27081,Minnesota,Lincoln County,2021-08-08,suppressed,4.9,10.4,9.2,10.5,5639,0,2021-08-08,Minnesota,MN,Lincoln County,47.3,54.4,0.6239449828071272,58.7
+27081,Minnesota,Lincoln County,2021-08-08,suppressed,4.9,10.4,9.2,10.5,5639,0,2021-08-08,Minnesota,MN,Lincoln County,47.3,54.4,0.6236323851203501,58.7
 27087,Minnesota,Mahnomen County,2021-08-08,suppressed,14.9,20.9,9.2,10.5,5527,0,2021-08-08,Minnesota,MN,Mahnomen County,62.6,68.2,0.9052829009065333,58.7
 27101,Minnesota,Murray County,2021-08-08,suppressed,4.9,7.4,9.2,10.5,8194,0,2021-08-08,Minnesota,MN,Murray County,49.5,54.7,0.6830259456080024,58.7
 27107,Minnesota,Norman County,2021-08-08,suppressed,6.2,10.3,9.2,10.5,6375,0,2021-08-08,Minnesota,MN,Norman County,52.8,57.9,0.75054704595186,58.7
@@ -178,65 +178,65 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 27129,Minnesota,Renville County,2021-08-08,suppressed,6,10.4,9.2,10.5,14548,0,2021-08-08,Minnesota,MN,Renville County,52.5,58.2,0.7433572991559863,58.7
 27149,Minnesota,Stevens County,2021-08-08,suppressed,2,15.7,9.2,10.5,9805,0,2021-08-08,Minnesota,MN,Stevens County,53.5,57.4,0.763988746483276,58.7
 27151,Minnesota,Swift County,2021-08-08,suppressed,4.5,13.2,9.2,10.5,9266,0,2021-08-08,Minnesota,MN,Swift County,54.4,59.9,0.7799312285089091,58.7
-27155,Minnesota,Traverse County,2021-08-08,suppressed,2.7,11,9.2,10.5,3259,0,2021-08-08,Minnesota,MN,Traverse County,57.5,62.3,0.8365114098155674,58.7
+27155,Minnesota,Traverse County,2021-08-08,suppressed,2.7,11,9.2,10.5,3259,0,2021-08-08,Minnesota,MN,Traverse County,57.5,62.3,0.8358862144420132,58.7
 27167,Minnesota,Wilkin County,2021-08-08,suppressed,3.3,9.3,9.2,10.5,6207,0,2021-08-08,Minnesota,MN,Wilkin County,28.7,34.4,0.13410440762738357,58.7
-28055,Mississippi,Issaquena County,2021-08-08,suppressed,10.4,41.7,9.2,10.5,1327,0,2021-08-08,Mississippi,MS,Issaquena County,30.5,34.3,0.1647389809315411,58.7
+28055,Mississippi,Issaquena County,2021-08-08,suppressed,10.4,41.7,9.2,10.5,1327,0,2021-08-08,Mississippi,MS,Issaquena County,30.5,34.3,0.164426383244764,58.7
 28125,Mississippi,Sharkey County,2021-08-08,suppressed,19.6,25.9,9.2,10.5,4321,0,2021-08-08,Mississippi,MS,Sharkey County,47.9,55.5,0.6402000625195373,58.7
 29103,Missouri,Knox County,2021-08-08,suppressed,17.1,19.2,9.2,10.5,3959,0,2021-08-08,Missouri,MO,Knox County,37.8,41.3,0.350109409190372,58.7
 29129,Missouri,Mercer County,2021-08-08,suppressed,17.2,10.9,9.2,10.5,3617,0,2021-08-08,Missouri,MO,Mercer County,30.4,36.2,0.16192560175054704,58.7
 29197,Missouri,Schuyler County,2021-08-08,suppressed,17.1,15.6,9.2,10.5,4660,0,2021-08-08,Missouri,MO,Schuyler County,25.3,28.6,0.09690528290090654,58.7
 29199,Missouri,Scotland County,2021-08-08,suppressed,35.4,15.8,9.2,10.5,4902,0,2021-08-08,Missouri,MO,Scotland County,25.2,30,0.09502969678024382,58.7
 29227,Missouri,Worth County,2021-08-08,suppressed,6.9,15.2,9.2,10.5,2013,0,2021-08-08,Missouri,MO,Worth County,37.4,42.2,0.3360425132854017,58.7
-30001,Montana,Beaverhead County,2021-08-08,suppressed,9,15.9,9.2,10.5,9453,0,2021-08-08,Montana,MT,Beaverhead County,49.3,52,0.6789621756798999,58.7
+30001,Montana,Beaverhead County,2021-08-08,suppressed,9,15.9,9.2,10.5,9453,0,2021-08-08,Montana,MT,Beaverhead County,49.3,52,0.6786495779931229,58.7
 30003,Montana,Big Horn County,2021-08-08,suppressed,37.9,26.2,9.2,10.5,13319,0,2021-08-08,Montana,MT,Big Horn County,75.7,92.7,0.986558299468584,58.7
 30005,Montana,Blaine County,2021-08-08,suppressed,17.9,29.6,9.2,10.5,6681,0,2021-08-08,Montana,MT,Blaine County,79.5,91.3,0.9931228508909034,58.7
 30007,Montana,Broadwater County,2021-08-08,suppressed,6.5,6.9,9.2,10.5,6237,0,2021-08-08,Montana,MT,Broadwater County,30.8,38,0.16942794623319787,58.7
 30009,Montana,Carbon County,2021-08-08,suppressed,7.5,10.1,9.2,10.5,10725,0,2021-08-08,Montana,MT,Carbon County,44,47,0.5457955611128478,58.7
 30011,Montana,Carter County,2021-08-08,suppressed,17.9,13.3,9.2,10.5,1252,0,2021-08-08,Montana,MT,Carter County,29.1,31.2,0.14098155673648016,58.7
 30015,Montana,Chouteau County,2021-08-08,suppressed,15,18.9,9.2,10.5,5635,0,2021-08-08,Montana,MT,Chouteau County,28.5,32.2,0.13066583307283527,58.7
-30019,Montana,Daniels County,2021-08-08,suppressed,6.5,4.2,9.2,10.5,1690,0,2021-08-08,Montana,MT,Daniels County,37.3,39.8,0.33354173179118474,58.7
+30019,Montana,Daniels County,2021-08-08,suppressed,6.5,4.2,9.2,10.5,1690,0,2021-08-08,Montana,MT,Daniels County,37.3,39.8,0.33322913410440763,58.7
 30021,Montana,Dawson County,2021-08-08,suppressed,6.3,9.6,9.2,10.5,8613,0,2021-08-08,Montana,MT,Dawson County,35.3,37.7,0.2772741481713035,58.7
 30025,Montana,Fallon County,2021-08-08,suppressed,7.1,9.7,9.2,10.5,2846,0,2021-08-08,Montana,MT,Fallon County,31.9,34.4,0.19037199124726478,58.7
 30033,Montana,Garfield County,2021-08-08,suppressed,12.5,5.3,9.2,10.5,1258,0,2021-08-08,Montana,MT,Garfield County,18.7,20.1,0.06408252578930916,58.7
 30035,Montana,Glacier County,2021-08-08,suppressed,38.2,33.3,9.2,10.5,13753,0,2021-08-08,Montana,MT,Glacier County,82,99.9,0.9962488277586746,58.7
-30045,Montana,Judith Basin County,2021-08-08,suppressed,6.9,13.7,9.2,10.5,2007,0,2021-08-08,Montana,MT,Judith Basin County,35.1,38.8,0.2713347921225383,58.7
+30045,Montana,Judith Basin County,2021-08-08,suppressed,6.9,13.7,9.2,10.5,2007,0,2021-08-08,Montana,MT,Judith Basin County,35.1,38.8,0.27070959674898404,58.7
 30051,Montana,Liberty County,2021-08-08,suppressed,9.8,14.3,9.2,10.5,2337,0,2021-08-08,Montana,MT,Liberty County,31.9,NA,0.19037199124726478,58.7
 30055,Montana,McCone County,2021-08-08,suppressed,5.2,7.7,9.2,10.5,1664,0,2021-08-08,Montana,MT,McCone County,16.9,17.2,0.05501719287277274,58.7
 30059,Montana,Meagher County,2021-08-08,suppressed,11.6,15,9.2,10.5,1862,0,2021-08-08,Montana,MT,Meagher County,48.2,50.7,0.6489527977492967,58.7
 30061,Montana,Mineral County,2021-08-08,suppressed,9.3,17,9.2,10.5,4397,0,2021-08-08,Montana,MT,Mineral County,49.7,56.1,0.687089715536105,58.7
-30071,Montana,Phillips County,2021-08-08,suppressed,17.1,14.9,9.2,10.5,3954,0,2021-08-08,Montana,MT,Phillips County,38.9,43.8,0.38949671772428884,58.7
-30073,Montana,Pondera County,2021-08-08,suppressed,10.6,20,9.2,10.5,5911,0,2021-08-08,Montana,MT,Pondera County,49.2,59,0.6767739918724601,58.7
-30083,Montana,Richland County,2021-08-08,suppressed,11,5.4,9.2,10.5,10803,0,2021-08-08,Montana,MT,Richland County,33.6,35.8,0.23007189746795872,58.7
+30071,Montana,Phillips County,2021-08-08,suppressed,17.1,14.9,9.2,10.5,3954,0,2021-08-08,Montana,MT,Phillips County,38.9,43.8,0.38918412003751174,58.7
+30073,Montana,Pondera County,2021-08-08,suppressed,10.6,20,9.2,10.5,5911,0,2021-08-08,Montana,MT,Pondera County,49.2,59,0.6764613941856831,58.7
+30083,Montana,Richland County,2021-08-08,suppressed,11,5.4,9.2,10.5,10803,0,2021-08-08,Montana,MT,Richland County,33.6,35.8,0.22975929978118162,58.7
 30087,Montana,Rosebud County,2021-08-08,suppressed,19.7,18.7,9.2,10.5,8937,0,2021-08-08,Montana,MT,Rosebud County,75.3,86.2,0.9843701156611441,58.7
-30089,Montana,Sanders County,2021-08-08,suppressed,15.5,19.5,9.2,10.5,12113,0,2021-08-08,Montana,MT,Sanders County,35.1,37,0.2713347921225383,58.7
+30089,Montana,Sanders County,2021-08-08,suppressed,15.5,19.5,9.2,10.5,12113,0,2021-08-08,Montana,MT,Sanders County,35.1,37,0.27070959674898404,58.7
 30091,Montana,Sheridan County,2021-08-08,suppressed,8.1,11,9.2,10.5,3309,0,2021-08-08,Montana,MT,Sheridan County,45.9,47.8,0.596748984057518,58.7
 30095,Montana,Stillwater County,2021-08-08,suppressed,7.1,6.4,9.2,10.5,9642,0,2021-08-08,Montana,MT,Stillwater County,39.2,42.5,0.3973116598937168,58.7
 30097,Montana,Sweet Grass County,2021-08-08,suppressed,4.9,7.9,9.2,10.5,3737,0,2021-08-08,Montana,MT,Sweet Grass County,37.1,39.9,0.32603938730853393,58.7
-30099,Montana,Teton County,2021-08-08,suppressed,11.2,13.3,9.2,10.5,6147,0,2021-08-08,Montana,MT,Teton County,38.7,45.4,0.3801187871209753,58.7
+30099,Montana,Teton County,2021-08-08,suppressed,11.2,13.3,9.2,10.5,6147,0,2021-08-08,Montana,MT,Teton County,38.7,45.4,0.3798061894341982,58.7
 30105,Montana,Valley County,2021-08-08,suppressed,7.8,9.1,9.2,10.5,7396,0,2021-08-08,Montana,MT,Valley County,41.6,44.3,0.47733666770865896,58.7
 30107,Montana,Wheatland County,2021-08-08,suppressed,13.7,17.2,9.2,10.5,2126,0,2021-08-08,Montana,MT,Wheatland County,32.7,35.4,0.21037824320100032,58.7
 30109,Montana,Wibaux County,2021-08-08,suppressed,14.5,15.8,9.2,10.5,969,0,2021-08-08,Montana,MT,Wibaux County,25.5,27.1,0.09940606439512348,58.7
 32027,Nevada,Pershing County,2021-08-08,suppressed,14.6,15.1,9.2,10.5,6725,0,2021-08-08,Nevada,NV,Pershing County,32.7,38.5,0.21037824320100032,58.7
-35003,New Mexico,Catron County,2021-08-08,suppressed,7.7,22.9,9.2,10.5,3527,0,2021-08-08,New Mexico,NM,Catron County,29.6,NA,0.14817130353235386,58.7
-35007,New Mexico,Colfax County,2021-08-08,suppressed,8.1,23.8,9.2,10.5,11941,0,2021-08-08,New Mexico,NM,Colfax County,39.8,NA,0.4166927164738981,58.7
-35019,New Mexico,Guadalupe County,2021-08-08,suppressed,2.3,14.5,9.2,10.5,4300,0,2021-08-08,New Mexico,NM,Guadalupe County,29.4,NA,0.1453579243513598,58.7
+35003,New Mexico,Catron County,2021-08-08,suppressed,7.7,22.9,9.2,10.5,3527,0,2021-08-08,New Mexico,NM,Catron County,29.6,NA,0.14785870584557675,58.7
+35007,New Mexico,Colfax County,2021-08-08,suppressed,8.1,23.8,9.2,10.5,11941,0,2021-08-08,New Mexico,NM,Colfax County,39.8,NA,0.416380118787121,58.7
+35019,New Mexico,Guadalupe County,2021-08-08,suppressed,2.3,14.5,9.2,10.5,4300,0,2021-08-08,New Mexico,NM,Guadalupe County,29.4,NA,0.14504532666458267,58.7
 35033,New Mexico,Mora County,2021-08-08,suppressed,6.2,19.3,9.2,10.5,4521,0,2021-08-08,New Mexico,NM,Mora County,46.3,NA,0.6070647077211628,58.7
 35055,New Mexico,Taos County,2021-08-08,suppressed,10.8,19.4,9.2,10.5,32723,0,2021-08-08,New Mexico,NM,Taos County,62.3,NA,0.9009065332916536,58.7
 35059,New Mexico,Union County,2021-08-08,suppressed,15.2,14.1,9.2,10.5,4059,0,2021-08-08,New Mexico,NM,Union County,19.9,NA,0.0700218818380744,58.7
 36041,New York,Hamilton County,2021-08-08,suppressed,6.8,6.9,9.2,10.5,4416,0,2021-08-08,New York,NY,Hamilton County,81.8,88.3,0.9959362300718975,58.7
 36097,New York,Schuyler County,2021-08-08,suppressed,5.6,13.9,9.2,10.5,17807,0,2021-08-08,New York,NY,Schuyler County,59.8,63.1,0.8696467646139419,58.7
-36121,New York,Wyoming County,2021-08-08,suppressed,4.2,10.9,9.2,10.5,39859,0,2021-08-08,New York,NY,Wyoming County,47.5,50.6,0.6298843388558925,58.7
+36121,New York,Wyoming County,2021-08-08,suppressed,4.2,10.9,9.2,10.5,39859,0,2021-08-08,New York,NY,Wyoming County,47.5,50.6,0.6295717411691153,58.7
 36123,New York,Yates County,2021-08-08,suppressed,18.8,11.4,9.2,10.5,24913,0,2021-08-08,New York,NY,Yates County,51.7,55.2,0.7258518286964677,58.7
-37029,North Carolina,Camden County,2021-08-08,suppressed,8.1,11.2,9.2,10.5,10867,0,2021-08-08,North Carolina,NC,Camden County,35.5,43.5,0.28290090653329164,58.7
-37073,North Carolina,Gates County,2021-08-08,suppressed,8.5,11.1,9.2,10.5,11562,0,2021-08-08,North Carolina,NC,Gates County,39.8,48.3,0.4166927164738981,58.7
+37029,North Carolina,Camden County,2021-08-08,suppressed,8.1,11.2,9.2,10.5,10867,0,2021-08-08,North Carolina,NC,Camden County,35.5,43.5,0.28258830884651454,58.7
+37073,North Carolina,Gates County,2021-08-08,suppressed,8.5,11.1,9.2,10.5,11562,0,2021-08-08,North Carolina,NC,Gates County,39.8,48.3,0.416380118787121,58.7
 37095,North Carolina,Hyde County,2021-08-08,suppressed,15.8,22.3,9.2,10.5,4937,0,2021-08-08,North Carolina,NC,Hyde County,58.3,67,0.849015317286652,58.7
 37103,North Carolina,Jones County,2021-08-08,suppressed,15.5,26.2,9.2,10.5,9419,0,2021-08-08,North Carolina,NC,Jones County,42.8,48.8,0.5120350109409191,58.7
-37177,North Carolina,Tyrrell County,2021-08-08,suppressed,16.4,25.2,9.2,10.5,4016,0,2021-08-08,North Carolina,NC,Tyrrell County,38.7,44.5,0.3801187871209753,58.7
+37177,North Carolina,Tyrrell County,2021-08-08,suppressed,16.4,25.2,9.2,10.5,4016,0,2021-08-08,North Carolina,NC,Tyrrell County,38.7,44.5,0.3798061894341982,58.7
 38003,North Dakota,Barnes County,2021-08-08,suppressed,5.9,10.5,9.2,10.5,10415,0,2021-08-08,North Dakota,ND,Barnes County,54,60.9,0.7727414817130354,58.7
 38005,North Dakota,Benson County,2021-08-08,suppressed,11.7,34.8,9.2,10.5,6832,0,2021-08-08,North Dakota,ND,Benson County,49.5,56.5,0.6830259456080024,58.7
-38011,North Dakota,Bowman County,2021-08-08,suppressed,5.4,7.8,9.2,10.5,3024,0,2021-08-08,North Dakota,ND,Bowman County,35.5,43.5,0.28290090653329164,58.7
-38019,North Dakota,Cavalier County,2021-08-08,suppressed,4.6,10,9.2,10.5,3762,0,2021-08-08,North Dakota,ND,Cavalier County,57.9,62.1,0.8440137542982182,58.7
-38023,North Dakota,Divide County,2021-08-08,suppressed,7.6,13.7,9.2,10.5,2264,0,2021-08-08,North Dakota,ND,Divide County,40.2,44.3,0.4295092216317599,58.7
+38011,North Dakota,Bowman County,2021-08-08,suppressed,5.4,7.8,9.2,10.5,3024,0,2021-08-08,North Dakota,ND,Bowman County,35.5,43.5,0.28258830884651454,58.7
+38019,North Dakota,Cavalier County,2021-08-08,suppressed,4.6,10,9.2,10.5,3762,0,2021-08-08,North Dakota,ND,Cavalier County,57.9,62.1,0.8437011566114411,58.7
+38023,North Dakota,Divide County,2021-08-08,suppressed,7.6,13.7,9.2,10.5,2264,0,2021-08-08,North Dakota,ND,Divide County,40.2,44.3,0.4291966239449828,58.7
 38025,North Dakota,Dunn County,2021-08-08,suppressed,19.7,8.9,9.2,10.5,4424,0,2021-08-08,North Dakota,ND,Dunn County,21.4,25.2,0.07314785870584557,58.7
 38033,North Dakota,Golden Valley County,2021-08-08,suppressed,10.5,6.5,9.2,10.5,1761,0,2021-08-08,North Dakota,ND,Golden Valley County,26.3,31.3,0.10722100656455143,58.7
 38043,North Dakota,Kidder County,2021-08-08,suppressed,14.2,10,9.2,10.5,2480,0,2021-08-08,North Dakota,ND,Kidder County,30.1,37,0.15504845264145045,58.7
@@ -246,13 +246,13 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 38055,North Dakota,McLean County,2021-08-08,suppressed,5,8.2,9.2,10.5,9450,0,2021-08-08,North Dakota,ND,McLean County,41.1,47.9,0.46670834635823694,58.7
 38057,North Dakota,Mercer County,2021-08-08,suppressed,14,7.1,9.2,10.5,8187,0,2021-08-08,North Dakota,ND,Mercer County,36.7,40.5,0.31447327289778054,58.7
 38061,North Dakota,Mountrail County,2021-08-08,suppressed,15.9,10.1,9.2,10.5,10545,0,2021-08-08,North Dakota,ND,Mountrail County,35.4,52.6,0.2804001250390747,58.7
-38067,North Dakota,Pembina County,2021-08-08,suppressed,6.6,7,9.2,10.5,6801,0,2021-08-08,North Dakota,ND,Pembina County,49.8,56.1,0.6895904970303219,58.7
+38067,North Dakota,Pembina County,2021-08-08,suppressed,6.6,7,9.2,10.5,6801,0,2021-08-08,North Dakota,ND,Pembina County,49.8,56.1,0.6892778993435449,58.7
 38069,North Dakota,Pierce County,2021-08-08,suppressed,3.5,17.1,9.2,10.5,3975,0,2021-08-08,North Dakota,ND,Pierce County,44,48.4,0.5457955611128478,58.7
 38071,North Dakota,Ramsey County,2021-08-08,suppressed,6.1,11.6,9.2,10.5,11519,0,2021-08-08,North Dakota,ND,Ramsey County,54.9,59.6,0.7911847452328853,58.7
 38077,North Dakota,Richland County,2021-08-08,suppressed,3.5,9.4,9.2,10.5,16177,0,2021-08-08,North Dakota,ND,Richland County,48.9,54,0.6680212566427008,58.7
 38079,North Dakota,Rolette County,2021-08-08,suppressed,25.1,29.3,9.2,10.5,14176,0,2021-08-08,North Dakota,ND,Rolette County,60.4,68.9,0.8783994998437011,58.7
 38085,North Dakota,Sioux County,2021-08-08,suppressed,31.8,36.5,9.2,10.5,4230,0,2021-08-08,North Dakota,ND,Sioux County,37.7,48.5,0.34604563926226944,58.7
-38097,North Dakota,Traill County,2021-08-08,suppressed,4.9,6.6,9.2,10.5,8036,0,2021-08-08,North Dakota,ND,Traill County,48.1,53.5,0.6455142231947484,58.7
+38097,North Dakota,Traill County,2021-08-08,suppressed,4.9,6.6,9.2,10.5,8036,0,2021-08-08,North Dakota,ND,Traill County,48.1,53.5,0.6452016255079712,58.7
 38099,North Dakota,Walsh County,2021-08-08,suppressed,5.6,9.6,9.2,10.5,10641,0,2021-08-08,North Dakota,ND,Walsh County,52,59.1,0.7330415754923414,58.7
 38103,North Dakota,Wells County,2021-08-08,suppressed,2.7,6.6,9.2,10.5,3834,0,2021-08-08,North Dakota,ND,Wells County,41.1,46.4,0.46670834635823694,58.7
 39115,Ohio,Morgan County,2021-08-08,suppressed,8.5,19.1,9.2,10.5,14508,0,2021-08-08,Ohio,OH,Morgan County,37.8,38.2,0.350109409190372,58.7
@@ -269,23 +269,23 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 41037,Oregon,Lake County,2021-08-08,suppressed,8.2,16.6,9.2,10.5,7869,0,2021-08-08,Oregon,OR,Lake County,35.9,39,0.29540481400437635,58.7
 41069,Oregon,Wheeler County,2021-08-08,suppressed,6.5,20,9.2,10.5,1332,0,2021-08-08,Oregon,OR,Wheeler County,51.7,54.5,0.7258518286964677,58.7
 42053,Pennsylvania,Forest County,2021-08-08,suppressed,3.4,14.5,9.2,10.5,7247,0,2021-08-08,Pennsylvania,PA,Forest County,66.6,70.7,0.9396686464520163,58.7
-42057,Pennsylvania,Fulton County,2021-08-08,suppressed,6.9,11.4,9.2,10.5,14530,0,2021-08-08,Pennsylvania,PA,Fulton County,30.5,33.1,0.1647389809315411,58.7
+42057,Pennsylvania,Fulton County,2021-08-08,suppressed,6.9,11.4,9.2,10.5,14530,0,2021-08-08,Pennsylvania,PA,Fulton County,30.5,33.1,0.164426383244764,58.7
 42067,Pennsylvania,Juniata County,2021-08-08,suppressed,10.5,11.9,9.2,10.5,24763,0,2021-08-08,Pennsylvania,PA,Juniata County,40.7,45.6,0.4492028758987183,58.7
-42083,Pennsylvania,McKean County,2021-08-08,suppressed,4.8,16.8,9.2,10.5,40625,0,2021-08-08,Pennsylvania,PA,McKean County,35.5,59.9,0.28290090653329164,58.7
-42113,Pennsylvania,Sullivan County,2021-08-08,suppressed,8.6,13.4,9.2,10.5,6066,0,2021-08-08,Pennsylvania,PA,Sullivan County,42.9,68.4,0.5160987808690216,58.7
-42123,Pennsylvania,Warren County,2021-08-08,suppressed,5.3,12.7,9.2,10.5,39191,0,2021-08-08,Pennsylvania,PA,Warren County,44.6,55.4,0.5617380431384807,58.7
+42083,Pennsylvania,McKean County,2021-08-08,suppressed,4.8,16.8,9.2,10.5,40625,0,2021-08-08,Pennsylvania,PA,McKean County,35.5,59.9,0.28258830884651454,58.7
+42113,Pennsylvania,Sullivan County,2021-08-08,suppressed,8.6,13.4,9.2,10.5,6066,0,2021-08-08,Pennsylvania,PA,Sullivan County,42.9,68.4,0.5157861831822445,58.7
+42123,Pennsylvania,Warren County,2021-08-08,suppressed,5.3,12.7,9.2,10.5,39191,0,2021-08-08,Pennsylvania,PA,Warren County,44.6,55.4,0.5614254454517037,58.7
 72001,Puerto Rico,Adjuntas Muno,2021-08-08,suppressed,5.9,6250,9.2,10.5,17363,0,2021-08-08,Puerto Rico,PR,Adjuntas Muno,64,72.6,0.9187246014379493,58.7
 72049,Puerto Rico,Culebra Muno,2021-08-08,suppressed,10.5,4190,9.2,10.5,1714,0,2021-08-08,Puerto Rico,PR,Culebra Muno,66.6,99.9,0.9396686464520163,58.7
 72054,Puerto Rico,Florida Muno,2021-08-08,suppressed,3.3,5230,9.2,10.5,11317,0,2021-08-08,Puerto Rico,PR,Florida Muno,68.8,79.8,0.9546733354173179,58.7
 72073,Puerto Rico,Jayuya Muno,2021-08-08,suppressed,6.5,6040,9.2,10.5,13891,0,2021-08-08,Puerto Rico,PR,Jayuya Muno,70.7,78.3,0.9640512660206314,58.7
 72095,Puerto Rico,Maunabo Muno,2021-08-08,suppressed,4.9,4870,9.2,10.5,10321,0,2021-08-08,Puerto Rico,PR,Maunabo Muno,63.9,72.4,0.9177868083776181,58.7
 72147,Puerto Rico,Vieques Muno,2021-08-08,suppressed,10.7,4130,9.2,10.5,8386,0,2021-08-08,Puerto Rico,PR,Vieques Muno,69.3,75.3,0.9565489215379807,58.7
-72151,Puerto Rico,Yabucoa Muno,2021-08-08,suppressed,5,5350,9.2,10.5,32282,0,2021-08-08,Puerto Rico,PR,Yabucoa Muno,63.1,75.7,0.9105970615817442,58.7
+72151,Puerto Rico,Yabucoa Muno,2021-08-08,suppressed,5,5350,9.2,10.5,32282,0,2021-08-08,Puerto Rico,PR,Yabucoa Muno,63.1,75.7,0.9102844638949672,58.7
 46007,South Dakota,Bennett County,2021-08-08,suppressed,21.3,34.6,9.2,10.5,3365,0,2021-08-08,South Dakota,SD,Bennett County,44.3,56.6,0.5529853079087215,58.7
 46009,South Dakota,Bon Homme County,2021-08-08,suppressed,4.5,10.9,9.2,10.5,6901,0,2021-08-08,South Dakota,SD,Bon Homme County,48.3,NA,0.6517661769302907,58.7
 46013,South Dakota,Brown County,2021-08-08,suppressed,8,12,9.2,10.5,38839,0,2021-08-08,South Dakota,SD,Brown County,52.5,57.9,0.7433572991559863,58.7
-46015,South Dakota,Brule County,2021-08-08,suppressed,9.6,17.8,9.2,10.5,5297,0,2021-08-08,South Dakota,SD,Brule County,40.2,NA,0.4295092216317599,58.7
-46019,South Dakota,Butte County,2021-08-08,suppressed,13,12.2,9.2,10.5,10429,0,2021-08-08,South Dakota,SD,Butte County,29.9,NA,0.1519224757736793,58.7
+46015,South Dakota,Brule County,2021-08-08,suppressed,9.6,17.8,9.2,10.5,5297,0,2021-08-08,South Dakota,SD,Brule County,40.2,NA,0.4291966239449828,58.7
+46019,South Dakota,Butte County,2021-08-08,suppressed,13,12.2,9.2,10.5,10429,0,2021-08-08,South Dakota,SD,Butte County,29.9,NA,0.15160987808690216,58.7
 46021,South Dakota,Campbell County,2021-08-08,suppressed,1.7,4,9.2,10.5,1376,0,2021-08-08,South Dakota,SD,Campbell County,27.8,29.5,0.12128790246952173,58.7
 46023,South Dakota,Charles Mix County,2021-08-08,suppressed,19,20.2,9.2,10.5,9292,0,2021-08-08,South Dakota,SD,Charles Mix County,48,NA,0.6433260393873085,58.7
 46027,South Dakota,Clay County,2021-08-08,suppressed,7.5,25.3,9.2,10.5,14070,0,2021-08-08,South Dakota,SD,Clay County,58.6,NA,0.8530790872147546,58.7
@@ -294,20 +294,20 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 46037,South Dakota,Day County,2021-08-08,suppressed,11.5,19.2,9.2,10.5,5424,0,2021-08-08,South Dakota,SD,Day County,50.6,NA,0.7045951859956237,58.7
 46039,South Dakota,Deuel County,2021-08-08,suppressed,6.5,9.8,9.2,10.5,4351,0,2021-08-08,South Dakota,SD,Deuel County,35.8,NA,0.2913410440762738,58.7
 46041,South Dakota,Dewey County,2021-08-08,suppressed,28.8,30.2,9.2,10.5,5892,0,2021-08-08,South Dakota,SD,Dewey County,66.9,79,0.9434198186933417,58.7
-46043,South Dakota,Douglas County,2021-08-08,suppressed,13.8,7.4,9.2,10.5,2921,0,2021-08-08,South Dakota,SD,Douglas County,38,NA,0.35761175367302284,58.7
-46047,South Dakota,Fall River County,2021-08-08,suppressed,9.5,13.8,9.2,10.5,6713,0,2021-08-08,South Dakota,SD,Fall River County,45,NA,0.5736167552360113,58.7
+46043,South Dakota,Douglas County,2021-08-08,suppressed,13.8,7.4,9.2,10.5,2921,0,2021-08-08,South Dakota,SD,Douglas County,38,NA,0.3572991559862457,58.7
+46047,South Dakota,Fall River County,2021-08-08,suppressed,9.5,13.8,9.2,10.5,6713,0,2021-08-08,South Dakota,SD,Fall River County,45,NA,0.5733041575492341,58.7
 46059,South Dakota,Hand County,2021-08-08,suppressed,5.2,9,9.2,10.5,3191,0,2021-08-08,South Dakota,SD,Hand County,38.3,NA,0.3669896842763364,58.7
 46065,South Dakota,Hughes County,2021-08-08,suppressed,6.6,11.2,9.2,10.5,17526,0,2021-08-08,South Dakota,SD,Hughes County,54.5,NA,0.7821194123163488,58.7
 46071,South Dakota,Jackson County,2021-08-08,suppressed,26.4,47.7,9.2,10.5,3344,0,2021-08-08,South Dakota,SD,Jackson County,39.5,NA,0.40700218818380746,58.7
-46079,South Dakota,Lake County,2021-08-08,suppressed,7.4,12.4,9.2,10.5,12797,0,2021-08-08,South Dakota,SD,Lake County,40.5,NA,0.4420131291028446,58.7
+46079,South Dakota,Lake County,2021-08-08,suppressed,7.4,12.4,9.2,10.5,12797,0,2021-08-08,South Dakota,SD,Lake County,40.5,NA,0.4413879337292904,58.7
 46085,South Dakota,Lyman County,2021-08-08,suppressed,17.1,22,9.2,10.5,3781,0,2021-08-08,South Dakota,SD,Lyman County,59.8,71.6,0.8696467646139419,58.7
 46097,South Dakota,Miner County,2021-08-08,suppressed,7.9,9.1,9.2,10.5,2216,0,2021-08-08,South Dakota,SD,Miner County,49.6,NA,0.6849015317286652,58.7
 46101,South Dakota,Moody County,2021-08-08,suppressed,10.7,14.9,9.2,10.5,6576,0,2021-08-08,South Dakota,SD,Moody County,45.4,NA,0.5854954673335417,58.7
-46102,South Dakota,Oglala Lakota County,2021-08-08,suppressed,35.6,49.3,9.2,10.5,14177,0,2021-08-08,South Dakota,SD,Oglala Lakota County,57.6,75,0.8377618005626758,58.7
+46102,South Dakota,Oglala Lakota County,2021-08-08,suppressed,35.6,49.3,9.2,10.5,14177,0,2021-08-08,South Dakota,SD,Oglala Lakota County,57.6,75,0.8374492028758987,58.7
 46105,South Dakota,Perkins County,2021-08-08,suppressed,9.3,11.8,9.2,10.5,2865,0,2021-08-08,South Dakota,SD,Perkins County,24.7,NA,0.09034073147858705,58.7
 46107,South Dakota,Potter County,2021-08-08,suppressed,5.4,7.1,9.2,10.5,2153,0,2021-08-08,South Dakota,SD,Potter County,47.8,NA,0.6380118787120975,58.7
 46109,South Dakota,Roberts County,2021-08-08,suppressed,19.4,18.8,9.2,10.5,10394,0,2021-08-08,South Dakota,SD,Roberts County,53,NA,0.7546108158799625,58.7
-46115,South Dakota,Spink County,2021-08-08,suppressed,6.7,9.5,9.2,10.5,6376,0,2021-08-08,South Dakota,SD,Spink County,38.4,NA,0.3726164426383245,58.7
+46115,South Dakota,Spink County,2021-08-08,suppressed,6.7,9.5,9.2,10.5,6376,0,2021-08-08,South Dakota,SD,Spink County,38.4,NA,0.37230384495154734,58.7
 46121,South Dakota,Todd County,2021-08-08,suppressed,30.5,55.1,9.2,10.5,10177,0,2021-08-08,South Dakota,SD,Todd County,51.4,66.2,0.721475461081588,58.7
 46125,South Dakota,Turner County,2021-08-08,suppressed,6,10.7,9.2,10.5,8384,0,2021-08-08,South Dakota,SD,Turner County,38.1,NA,0.3610503282275711,58.7
 46127,South Dakota,Union County,2021-08-08,suppressed,5.9,7.1,9.2,10.5,15932,0,2021-08-08,South Dakota,SD,Union County,47.6,51.5,0.6336355110972178,58.7
@@ -315,59 +315,59 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 47027,Tennessee,Clay County,2021-08-08,suppressed,11.1,26.7,9.2,10.5,7615,0,2021-08-08,Tennessee,TN,Clay County,25.4,28.3,0.098155673648015,58.7
 47095,Tennessee,Lake County,2021-08-08,suppressed,10.2,26.9,9.2,10.5,7016,0,2021-08-08,Tennessee,TN,Lake County,25.9,31,0.10253204126289465,58.7
 47137,Tennessee,Pickett County,2021-08-08,suppressed,6.4,17.2,9.2,10.5,5048,0,2021-08-08,Tennessee,TN,Pickett County,38.1,42.3,0.3610503282275711,58.7
-47175,Tennessee,Van Buren County,2021-08-08,suppressed,14.4,19,9.2,10.5,5872,0,2021-08-08,Tennessee,TN,Van Buren County,47.5,54.1,0.6298843388558925,58.7
-48011,Texas,Armstrong County,2021-08-08,suppressed,7.6,7.3,9.2,10.5,1887,0,2021-08-08,Texas,TX,Armstrong County,34.72222222222222,42.48737373737374,0.2647702407002188,58.7
-48017,Texas,Bailey County,2021-08-08,suppressed,20.6,14.5,9.2,10.5,7000,0,2021-08-08,Texas,TX,Bailey County,37.479921470640726,44.940210601463505,0.33916849015317285,58.7
-48023,Texas,Baylor County,2021-08-08,suppressed,13.1,10.9,9.2,10.5,3509,0,2021-08-08,Texas,TX,Baylor County,38.43582887700535,42.17914438502674,0.3744920287589872,58.7
-48043,Texas,Brewster County,2021-08-08,suppressed,16.8,12.4,9.2,10.5,9203,0,2021-08-08,Texas,TX,Brewster County,51.79036055011771,60.12885639945483,0.7283526101906845,58.7
-48045,Texas,Briscoe County,2021-08-08,suppressed,21.9,15.6,9.2,10.5,1546,0,2021-08-08,Texas,TX,Briscoe County,35.650887573964496,40.532544378698226,0.289152860268834,58.7
-48065,Texas,Carson County,2021-08-08,suppressed,11.4,6.3,9.2,10.5,5926,0,2021-08-08,Texas,TX,Carson County,29.52887837571457,34.180958013010056,0.14754610815879962,58.7
-48075,Texas,Childress County,2021-08-08,suppressed,17.1,14.6,9.2,10.5,7306,0,2021-08-08,Texas,TX,Childress County,45.86384171989407,49.898738121202676,0.5964363863707408,58.7
-48079,Texas,Cochran County,2021-08-08,suppressed,28,23.9,9.2,10.5,2853,0,2021-08-08,Texas,TX,Cochran County,36.72172808132147,40.9995764506565,0.3160362613316661,58.7
-48081,Texas,Coke County,2021-08-08,suppressed,13,15.8,9.2,10.5,3387,0,2021-08-08,Texas,TX,Coke County,34.02561439944618,40.463828314295604,0.24070021881838075,58.7
-48087,Texas,Collingsworth County,2021-08-08,suppressed,22.6,15.9,9.2,10.5,2920,0,2021-08-08,Texas,TX,Collingsworth County,30.509868421052634,35.97861842105263,0.16536417630509534,58.7
-48101,Texas,Cottle County,2021-08-08,suppressed,13.6,31.4,9.2,10.5,1398,0,2021-08-08,Texas,TX,Cottle County,36.83319220999153,41.57493649449619,0.31947483588621445,58.7
-48105,Texas,Crockett County,2021-08-08,suppressed,15.2,20.8,9.2,10.5,3464,0,2021-08-08,Texas,TX,Crockett County,39.27209705372617,45.99653379549393,0.3994998437011566,58.7
-48109,Texas,Culberson County,2021-08-08,suppressed,20.7,31.4,9.2,10.5,2171,0,2021-08-08,Texas,TX,Culberson County,53.50877192982456,59.26535087719298,0.7668021256642701,58.7
-48111,Texas,Dallam County,2021-08-08,suppressed,24.9,13.9,9.2,10.5,7287,0,2021-08-08,Texas,TX,Dallam County,39.67753242201192,52.17315106905013,0.41387933729290405,58.7
-48125,Texas,Dickens County,2021-08-08,suppressed,18.8,17.2,9.2,10.5,2211,0,2021-08-08,Texas,TX,Dickens County,28.56407617086979,32.42408646423057,0.13160362613316662,58.7
-48129,Texas,Donley County,2021-08-08,suppressed,15.4,14.9,9.2,10.5,3278,0,2021-08-08,Texas,TX,Donley County,33.16884032428622,39.619316179062395,0.22319474835886213,58.7
-48137,Texas,Edwards County,2021-08-08,suppressed,12.3,6.7,9.2,10.5,1932,0,2021-08-08,Texas,TX,Edwards County,34.52669902912621,39.19902912621359,0.2591434823382307,58.7
-48151,Texas,Fisher County,2021-08-08,suppressed,15.4,16.1,9.2,10.5,3830,0,2021-08-08,Texas,TX,Fisher County,32.19407995117486,36.46628013426915,0.19881212879024696,58.7
-48155,Texas,Foard County,2021-08-08,suppressed,13.3,6.9,9.2,10.5,1155,0,2021-08-08,Texas,TX,Foard County,35.7926221335992,45.46360917248255,0.2910284463894967,58.7
-48173,Texas,Glasscock County,2021-08-08,suppressed,20.3,9.5,9.2,10.5,1409,0,2021-08-08,Texas,TX,Glasscock County,38.205128205128204,45.2991452991453,0.3663644889027821,58.7
-48191,Texas,Hall County,2021-08-08,suppressed,25.6,23.2,9.2,10.5,2964,0,2021-08-08,Texas,TX,Hall County,40.24294670846395,45.29780564263323,0.43326039387308535,58.7
-48195,Texas,Hansford County,2021-08-08,suppressed,19.7,16.1,9.2,10.5,5399,0,2021-08-08,Texas,TX,Hansford County,40.80367393800229,45.396096440872554,0.4557674273210378,58.7
-48197,Texas,Hardeman County,2021-08-08,suppressed,15.8,12.6,9.2,10.5,3933,0,2021-08-08,Texas,TX,Hardeman County,40.17144546260715,44.90097546556311,0.4291966239449828,58.7
-48211,Texas,Hemphill County,2021-08-08,suppressed,26.9,14,9.2,10.5,3819,0,2021-08-08,Texas,TX,Hemphill County,40.390775144138374,46.38052530429212,0.4382619568615192,58.7
-48229,Texas,Hudspeth County,2021-08-08,suppressed,23.4,28.2,9.2,10.5,4886,0,2021-08-08,Texas,TX,Hudspeth County,64.60497704759604,73.59265523073206,0.925914348233823,58.7
-48235,Texas,Irion County,2021-08-08,suppressed,13.9,14.8,9.2,10.5,1536,0,2021-08-08,Texas,TX,Irion County,36.76470588235294,43.188854489164086,0.3166614567052204,58.7
-48247,Texas,Jim Hogg County,2021-08-08,suppressed,18.8,27.4,9.2,10.5,5200,0,2021-08-08,Texas,TX,Jim Hogg County,55.44192841490138,69.85634282931579,0.8008752735229759,58.7
-48261,Texas,Kenedy County,2021-08-08,suppressed,21.5,7.1,9.2,10.5,404,0,2021-08-08,Texas,TX,Kenedy County,51.95195195195195,61.86186186186187,0.7327289778055642,58.7
-48263,Texas,Kent County,2021-08-08,suppressed,5.5,10.9,9.2,10.5,762,0,2021-08-08,Texas,TX,Kent County,34.21052631578947,41.021671826625386,0.24882775867458581,58.7
-48271,Texas,Kinney County,2021-08-08,suppressed,14.6,18.6,9.2,10.5,3667,0,2021-08-08,Texas,TX,Kinney County,36.28153223294924,47.5241357832451,0.305095342294467,58.7
-48275,Texas,Knox County,2021-08-08,suppressed,15.8,14.7,9.2,10.5,3664,0,2021-08-08,Texas,TX,Knox County,37.89682539682539,41.46825396825397,0.3541731791184745,58.7
-48283,Texas,La Salle County,2021-08-08,suppressed,25.1,12.1,9.2,10.5,7520,0,2021-08-08,Texas,TX,La Salle County,57.35680098811178,66.94457310483249,0.8336980306345733,58.7
-48295,Texas,Lipscomb County,2021-08-08,suppressed,19,11.4,9.2,10.5,3233,0,2021-08-08,Texas,TX,Lipscomb County,28.947368421052634,32.616753150481834,0.1400437636761488,58.7
-48305,Texas,Lynn County,2021-08-08,suppressed,17.5,18.9,9.2,10.5,5951,0,2021-08-08,Texas,TX,Lynn County,35.99257884972171,42.36239950525665,0.2972804001250391,58.7
-48319,Texas,Mason County,2021-08-08,suppressed,20.3,14.6,9.2,10.5,4274,0,2021-08-08,Texas,TX,Mason County,44.261853448275865,49.272629310344826,0.5526727102219443,58.7
-48359,Texas,Oldham County,2021-08-08,suppressed,10.8,12,9.2,10.5,2112,0,2021-08-08,Texas,TX,Oldham County,28.141499472016896,33.262935586061246,0.1259768677711785,58.7
-48369,Texas,Parmer County,2021-08-08,suppressed,20.5,16.4,9.2,10.5,9605,0,2021-08-08,Texas,TX,Parmer County,37.83265097236438,42.82241555783009,0.3538605814316974,58.7
-48377,Texas,Presidio County,2021-08-08,suppressed,30,33.4,9.2,10.5,6704,0,2021-08-08,Texas,TX,Presidio County,89.59569732937686,105.61943620178043,0.9984370115661144,58.7
-48393,Texas,Roberts County,2021-08-08,suppressed,8.2,12.2,9.2,10.5,854,0,2021-08-08,Texas,TX,Roberts County,25.47945205479452,28.904109589041095,0.09909346670834636,58.7
-48413,Texas,Schleicher County,2021-08-08,suppressed,21.1,14.8,9.2,10.5,2793,0,2021-08-08,Texas,TX,Schleicher County,38.22426010837849,43.934972905377236,0.3666770865895592,58.7
-48421,Texas,Sherman County,2021-08-08,suppressed,19.7,15.2,9.2,10.5,3022,0,2021-08-08,Texas,TX,Sherman County,30.26634382566586,39.184826472962065,0.15911222256955299,58.7
-48429,Texas,Stephens County,2021-08-08,suppressed,20.9,22.6,9.2,10.5,9366,0,2021-08-08,Texas,TX,Stephens County,31.334743127254633,35.7382759049633,0.17755548608940294,58.7
-48431,Texas,Sterling County,2021-08-08,suppressed,20.2,3.5,9.2,10.5,1291,0,2021-08-08,Texas,TX,Sterling County,32.341650671785025,40.88291746641075,0.20256330103157236,58.7
-48433,Texas,Stonewall County,2021-08-08,suppressed,14.8,13.2,9.2,10.5,1350,0,2021-08-08,Texas,TX,Stonewall County,38.144329896907216,41.66666666666667,0.36386370740856516,58.7
-48447,Texas,Throckmorton County,2021-08-08,suppressed,17.4,14.7,9.2,10.5,1501,0,2021-08-08,Texas,TX,Throckmorton County,38.35616438356164,43.15068493150685,0.37199124726477023,58.7
-48483,Texas,Wheeler County,2021-08-08,suppressed,19.7,18.1,9.2,10.5,5056,0,2021-08-08,Texas,TX,Wheeler County,34.71859415815721,40.46544763714082,0.2644576430134417,58.7
-48505,Texas,Zapata County,2021-08-08,suppressed,29.3,39.5,9.2,10.5,14179,0,2021-08-08,Texas,TX,Zapata County,60.31369688126937,73.51814699981762,0.8780869021569241,58.7
-49015,Utah,Emery County,2021-08-08,suppressed,9.8,12.8,9.2,10.5,10012,0,2021-08-08,Utah,UT,Emery County,40.5,45.6,0.4420131291028446,58.7
+47175,Tennessee,Van Buren County,2021-08-08,suppressed,14.4,19,9.2,10.5,5872,0,2021-08-08,Tennessee,TN,Van Buren County,47.5,54.1,0.6295717411691153,58.7
+48011,Texas,Armstrong County,2021-08-08,suppressed,7.6,7.3,9.2,10.5,1887,0,2021-08-09,Texas,TX,Armstrong County,34.785353535353536,42.55050505050505,0.2647702407002188,58.7
+48017,Texas,Bailey County,2021-08-08,suppressed,20.6,14.5,9.2,10.5,7000,0,2021-08-09,Texas,TX,Bailey County,37.479921470640726,44.95805818311619,0.33916849015317285,58.7
+48023,Texas,Baylor County,2021-08-08,suppressed,13.1,10.9,9.2,10.5,3509,0,2021-08-09,Texas,TX,Baylor County,38.43582887700535,42.17914438502674,0.3744920287589872,58.7
+48043,Texas,Brewster County,2021-08-08,suppressed,16.8,12.4,9.2,10.5,9203,0,2021-08-09,Texas,TX,Brewster County,51.81514062693594,60.14124643786396,0.7302281963113473,58.7
+48045,Texas,Briscoe County,2021-08-08,suppressed,21.9,15.6,9.2,10.5,1546,0,2021-08-09,Texas,TX,Briscoe County,35.650887573964496,40.60650887573964,0.289152860268834,58.7
+48065,Texas,Carson County,2021-08-08,suppressed,11.4,6.3,9.2,10.5,5926,0,2021-08-09,Texas,TX,Carson County,29.568302779420463,34.259806820421836,0.14754610815879962,58.7
+48075,Texas,Childress County,2021-08-08,suppressed,17.1,14.6,9.2,10.5,7306,0,2021-08-09,Texas,TX,Childress County,45.86384171989407,49.929895622371085,0.5964363863707408,58.7
+48079,Texas,Cochran County,2021-08-08,suppressed,28,23.9,9.2,10.5,2853,0,2021-08-09,Texas,TX,Cochran County,36.72172808132147,41.16899618805591,0.3160362613316661,58.7
+48081,Texas,Coke County,2021-08-08,suppressed,13,15.8,9.2,10.5,3387,0,2021-08-09,Texas,TX,Coke County,34.02561439944618,40.49844236760124,0.2403876211316036,58.7
+48087,Texas,Collingsworth County,2021-08-08,suppressed,22.6,15.9,9.2,10.5,2920,0,2021-08-09,Texas,TX,Collingsworth County,30.550986842105267,36.01973684210527,0.16536417630509534,58.7
+48101,Texas,Cottle County,2021-08-08,suppressed,13.6,31.4,9.2,10.5,1398,0,2021-08-09,Texas,TX,Cottle County,36.83319220999153,41.57493649449619,0.31947483588621445,58.7
+48105,Texas,Crockett County,2021-08-08,suppressed,15.2,20.8,9.2,10.5,3464,0,2021-08-09,Texas,TX,Crockett County,39.27209705372617,46.06585788561525,0.3994998437011566,58.7
+48109,Texas,Culberson County,2021-08-08,suppressed,20.7,31.4,9.2,10.5,2171,0,2021-08-09,Texas,TX,Culberson County,53.50877192982456,59.26535087719298,0.7668021256642701,58.7
+48111,Texas,Dallam County,2021-08-08,suppressed,24.9,13.9,9.2,10.5,7287,0,2021-08-09,Texas,TX,Dallam County,39.71258324570627,52.225727304591665,0.41606752110034384,58.7
+48125,Texas,Dickens County,2021-08-08,suppressed,18.8,17.2,9.2,10.5,2211,0,2021-08-09,Texas,TX,Dickens County,28.615542974781267,32.47555326814205,0.13379180994060644,58.7
+48129,Texas,Donley County,2021-08-08,suppressed,15.4,14.9,9.2,10.5,3278,0,2021-08-09,Texas,TX,Donley County,33.16884032428622,39.619316179062395,0.22319474835886213,58.7
+48137,Texas,Edwards County,2021-08-08,suppressed,12.3,6.7,9.2,10.5,1932,0,2021-08-09,Texas,TX,Edwards County,34.52669902912621,39.19902912621359,0.25851828696467644,58.7
+48151,Texas,Fisher County,2021-08-08,suppressed,15.4,16.1,9.2,10.5,3830,0,2021-08-09,Texas,TX,Fisher County,32.22459566676839,36.52731156545621,0.1997499218505783,58.7
+48155,Texas,Foard County,2021-08-08,suppressed,13.3,6.9,9.2,10.5,1155,0,2021-08-09,Texas,TX,Foard County,35.7926221335992,45.66301096709871,0.2910284463894967,58.7
+48173,Texas,Glasscock County,2021-08-08,suppressed,20.3,9.5,9.2,10.5,1409,0,2021-08-09,Texas,TX,Glasscock County,38.205128205128204,45.47008547008547,0.3663644889027821,58.7
+48191,Texas,Hall County,2021-08-08,suppressed,25.6,23.2,9.2,10.5,2964,0,2021-08-09,Texas,TX,Hall County,40.24294670846395,45.33699059561129,0.43326039387308535,58.7
+48195,Texas,Hansford County,2021-08-08,suppressed,19.7,16.1,9.2,10.5,5399,0,2021-08-09,Texas,TX,Hansford County,40.80367393800229,45.396096440872554,0.4554548296342607,58.7
+48197,Texas,Hardeman County,2021-08-08,suppressed,15.8,12.6,9.2,10.5,3933,0,2021-08-09,Texas,TX,Hardeman County,40.20100502512563,44.930535028081586,0.43294779618630824,58.7
+48211,Texas,Hemphill County,2021-08-08,suppressed,26.9,14,9.2,10.5,3819,0,2021-08-09,Texas,TX,Hemphill County,40.45483664317745,46.41255605381166,0.4410753360425133,58.7
+48229,Texas,Hudspeth County,2021-08-08,suppressed,23.4,28.2,9.2,10.5,4886,0,2021-08-09,Texas,TX,Hudspeth County,64.77410002416043,73.61681565595555,0.9265395436073773,58.7
+48235,Texas,Irion County,2021-08-08,suppressed,13.9,14.8,9.2,10.5,1536,0,2021-08-09,Texas,TX,Irion County,36.76470588235294,43.26625386996904,0.3163488590184433,58.7
+48247,Texas,Jim Hogg County,2021-08-08,suppressed,18.8,27.4,9.2,10.5,5200,0,2021-08-09,Texas,TX,Jim Hogg County,55.44192841490138,69.85634282931579,0.8005626758361988,58.7
+48261,Texas,Kenedy County,2021-08-08,suppressed,21.5,7.1,9.2,10.5,404,0,2021-08-09,Texas,TX,Kenedy County,51.95195195195195,61.86186186186187,0.7327289778055642,58.7
+48263,Texas,Kent County,2021-08-08,suppressed,5.5,10.9,9.2,10.5,762,0,2021-08-09,Texas,TX,Kent County,34.21052631578947,41.021671826625386,0.24882775867458581,58.7
+48271,Texas,Kinney County,2021-08-08,suppressed,14.6,18.6,9.2,10.5,3667,0,2021-08-09,Texas,TX,Kinney County,36.31267517907194,47.5552787293678,0.30728352610190685,58.7
+48275,Texas,Knox County,2021-08-08,suppressed,15.8,14.7,9.2,10.5,3664,0,2021-08-09,Texas,TX,Knox County,37.89682539682539,41.53439153439153,0.3541731791184745,58.7
+48283,Texas,La Salle County,2021-08-08,suppressed,25.1,12.1,9.2,10.5,7520,0,2021-08-09,Texas,TX,La Salle County,57.75822139879574,67.3151150223869,0.8412003751172241,58.7
+48295,Texas,Lipscomb County,2021-08-08,suppressed,19,11.4,9.2,10.5,3233,0,2021-08-09,Texas,TX,Lipscomb County,28.98443291326909,32.65381764269829,0.1400437636761488,58.7
+48305,Texas,Lynn County,2021-08-08,suppressed,17.5,18.9,9.2,10.5,5951,0,2021-08-09,Texas,TX,Lynn County,36.075036075036074,42.52731395588538,0.2994685839324789,58.7
+48319,Texas,Mason County,2021-08-08,suppressed,20.3,14.6,9.2,10.5,4274,0,2021-08-09,Texas,TX,Mason County,44.261853448275865,49.272629310344826,0.5523601125351673,58.7
+48359,Texas,Oldham County,2021-08-08,suppressed,10.8,12,9.2,10.5,2112,0,2021-08-09,Texas,TX,Oldham County,28.141499472016896,33.262935586061246,0.1259768677711785,58.7
+48369,Texas,Parmer County,2021-08-08,suppressed,20.5,16.4,9.2,10.5,9605,0,2021-08-09,Texas,TX,Parmer County,37.8582395087001,42.873592630501534,0.3538605814316974,58.7
+48377,Texas,Presidio County,2021-08-08,suppressed,30,33.4,9.2,10.5,6704,0,2021-08-09,Texas,TX,Presidio County,89.61424332344214,105.71216617210682,0.9984370115661144,58.7
+48393,Texas,Roberts County,2021-08-08,suppressed,8.2,12.2,9.2,10.5,854,0,2021-08-09,Texas,TX,Roberts County,25.47945205479452,28.904109589041095,0.09909346670834636,58.7
+48413,Texas,Schleicher County,2021-08-08,suppressed,21.1,14.8,9.2,10.5,2793,0,2021-08-09,Texas,TX,Schleicher County,38.22426010837849,44.060025010421015,0.3666770865895592,58.7
+48421,Texas,Sherman County,2021-08-08,suppressed,19.7,15.2,9.2,10.5,3022,0,2021-08-09,Texas,TX,Sherman County,30.26634382566586,39.30589184826473,0.15911222256955299,58.7
+48429,Texas,Stephens County,2021-08-08,suppressed,20.9,22.6,9.2,10.5,9366,0,2021-08-09,Texas,TX,Stephens County,31.334743127254633,35.85023012812539,0.17755548608940294,58.7
+48431,Texas,Sterling County,2021-08-08,suppressed,20.2,3.5,9.2,10.5,1291,0,2021-08-09,Texas,TX,Sterling County,32.341650671785025,40.978886756238005,0.20256330103157236,58.7
+48433,Texas,Stonewall County,2021-08-08,suppressed,14.8,13.2,9.2,10.5,1350,0,2021-08-09,Texas,TX,Stonewall County,38.144329896907216,41.838487972508595,0.36355110972178806,58.7
+48447,Texas,Throckmorton County,2021-08-08,suppressed,17.4,14.7,9.2,10.5,1501,0,2021-08-09,Texas,TX,Throckmorton County,38.35616438356164,43.22678843226788,0.37199124726477023,58.7
+48483,Texas,Wheeler County,2021-08-08,suppressed,19.7,18.1,9.2,10.5,5056,0,2021-08-09,Texas,TX,Wheeler County,34.74234148658276,40.65542626454524,0.2644576430134417,58.7
+48505,Texas,Zapata County,2021-08-08,suppressed,29.3,39.5,9.2,10.5,14179,0,2021-08-09,Texas,TX,Zapata County,60.35017326281233,73.69140981214663,0.8780869021569241,58.7
+49015,Utah,Emery County,2021-08-08,suppressed,9.8,12.8,9.2,10.5,10012,0,2021-08-08,Utah,UT,Emery County,40.5,45.6,0.4413879337292904,58.7
 49031,Utah,Piute County,2021-08-08,suppressed,22.2,17.1,9.2,10.5,1479,0,2021-08-08,Utah,UT,Piute County,33,39.6,0.2188183807439825,58.7
 49033,Utah,Rich County,2021-08-08,suppressed,12.5,15.9,9.2,10.5,2483,0,2021-08-08,Utah,UT,Rich County,43.8,56.9,0.541106595811191,58.7
-49037,Utah,San Juan County,2021-08-08,suppressed,21,26.6,9.2,10.5,15308,0,2021-08-08,Utah,UT,San Juan County,55.6,65.1,0.8027508596436387,58.7
-50009,Vermont,Essex County,2021-08-08,suppressed,4.6,14.6,9.2,10.5,6163,0,2021-08-08,Vermont,VT,Essex County,37.3,42.3,0.33354173179118474,58.7
+49037,Utah,San Juan County,2021-08-08,suppressed,21,26.6,9.2,10.5,15308,0,2021-08-08,Utah,UT,San Juan County,55.6,65.1,0.8024382619568615,58.7
+50009,Vermont,Essex County,2021-08-08,suppressed,4.6,14.6,9.2,10.5,6163,0,2021-08-08,Vermont,VT,Essex County,37.3,42.3,0.33322913410440763,58.7
 50013,Vermont,Grand Isle County,2021-08-08,suppressed,3.1,7.6,9.2,10.5,7235,0,2021-08-08,Vermont,VT,Grand Isle County,77.4,87.4,0.9899968740231322,58.7
 51036,Virginia,Charles City County,2021-08-08,suppressed,9.1,13.1,9.2,10.5,6963,0,2021-08-08,Virginia,VA,Charles City County,3.6,4.5,0.006877149109096593,58.7
 51037,Virginia,Charlotte County,2021-08-08,suppressed,13.6,24.1,9.2,10.5,11880,0,2021-08-08,Virginia,VA,Charlotte County,11,12.3,0.03344795248515161,58.7
@@ -379,15 +379,15 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 51077,Virginia,Grayson County,2021-08-08,suppressed,11.4,20.6,9.2,10.5,15550,0,2021-08-08,Virginia,VA,Grayson County,21.4,24.3,0.07314785870584557,58.7
 51081,Virginia,Greensville County,2021-08-08,suppressed,11.7,16.7,9.2,10.5,11336,0,2021-08-08,Virginia,VA,Greensville County,5,6.4,0.01031572366364489,58.7
 51091,Virginia,Highland County,2021-08-08,suppressed,9,12.3,9.2,10.5,2190,0,2021-08-08,Virginia,VA,Highland County,54.8,58,0.787746170678337,58.7
-51097,Virginia,King and Queen County,2021-08-08,suppressed,12.3,16.5,9.2,10.5,7025,0,2021-08-08,Virginia,VA,King and Queen County,28.6,31.9,0.13222882150672086,58.7
-51113,Virginia,Madison County,2021-08-08,suppressed,12.6,8.3,9.2,10.5,13261,0,2021-08-08,Virginia,VA,Madison County,45.1,50.6,0.5767427321037825,58.7
+51097,Virginia,King and Queen County,2021-08-08,suppressed,12.3,16.5,9.2,10.5,7025,0,2021-08-08,Virginia,VA,King and Queen County,28.6,31.9,0.13160362613316662,58.7
+51113,Virginia,Madison County,2021-08-08,suppressed,12.6,8.3,9.2,10.5,13261,0,2021-08-08,Virginia,VA,Madison County,45.1,50.6,0.5764301344170053,58.7
 51685,Virginia,Manassas Park City,2021-08-08,suppressed,18.7,9.7,9.2,10.5,17478,0,2021-08-08,Virginia,VA,Manassas Park City,1.5,1.6,0.002813379180994061,58.7
-51119,Virginia,Middlesex County,2021-08-08,suppressed,8.9,8.4,9.2,10.5,10582,0,2021-08-08,Virginia,VA,Middlesex County,52.9,58.8,0.7530478274460769,58.7
+51119,Virginia,Middlesex County,2021-08-08,suppressed,8.9,8.4,9.2,10.5,10582,0,2021-08-08,Virginia,VA,Middlesex County,52.9,58.8,0.7527352297592997,58.7
 51133,Virginia,Northumberland County,2021-08-08,suppressed,10.5,13.9,9.2,10.5,12095,0,2021-08-08,Virginia,VA,Northumberland County,24.6,26.6,0.08940293841825571,58.7
 51147,Virginia,Prince Edward County,2021-08-08,suppressed,9.3,19.9,9.2,10.5,22802,0,2021-08-08,Virginia,VA,Prince Edward County,2.6,3.2,0.0053141606752110035,58.7
 51157,Virginia,Rappahannock County,2021-08-08,suppressed,13.3,8.9,9.2,10.5,7370,0,2021-08-08,Virginia,VA,Rappahannock County,24.8,28.6,0.09127852453891841,58.7
 51175,Virginia,Southampton County,2021-08-08,suppressed,7,10.2,9.2,10.5,17631,0,2021-08-08,Virginia,VA,Southampton County,8,10.1,0.017818068146295718,58.7
-51181,Virginia,Surry County,2021-08-08,suppressed,11.7,12.7,9.2,10.5,6422,0,2021-08-08,Virginia,VA,Surry County,36.2,40.4,0.30196936542669583,58.7
+51181,Virginia,Surry County,2021-08-08,suppressed,11.7,12.7,9.2,10.5,6422,0,2021-08-08,Virginia,VA,Surry County,36.2,40.4,0.30165676773991873,58.7
 53023,Washington,Garfield County,2021-08-08,suppressed,5.4,11.6,9.2,10.5,2225,0,2021-08-08,Washington,WA,Garfield County,30.4,43.7,0.16192560175054704,58.7
 53059,Washington,Skamania County,2021-08-08,suppressed,4.7,13.5,9.2,10.5,12083,0,2021-08-08,Washington,WA,Skamania County,37.8,40.7,0.350109409190372,58.7
 54013,West Virginia,Calhoun County,2021-08-08,suppressed,6.5,18.9,9.2,10.5,7109,0,2021-08-08,West Virginia,WV,Calhoun County,13.5,18.1,0.04188809002813379,58.7
@@ -400,7 +400,7 @@ fips_code,State_name,County.x,report_date,cases_per_100K_7_day_count_change,perc
 54075,West Virginia,Pocahontas County,2021-08-08,suppressed,8.2,16.7,9.2,10.5,8247,0,2021-08-08,West Virginia,WV,Pocahontas County,26,30.3,0.10409502969678025,58.7
 54085,West Virginia,Ritchie County,2021-08-08,suppressed,9.8,17,9.2,10.5,9554,0,2021-08-08,West Virginia,WV,Ritchie County,20.8,26.6,0.07189746795873711,58.7
 54089,West Virginia,Summers County,2021-08-08,suppressed,3.2,22.9,9.2,10.5,12573,0,2021-08-08,West Virginia,WV,Summers County,16.9,20.8,0.05501719287277274,58.7
-54093,West Virginia,Tucker County,2021-08-08,suppressed,4.8,14.1,9.2,10.5,6839,0,2021-08-08,West Virginia,WV,Tucker County,31.2,34.7,0.17536730228196312,58.7
+54093,West Virginia,Tucker County,2021-08-08,suppressed,4.8,14.1,9.2,10.5,6839,0,2021-08-08,West Virginia,WV,Tucker County,31.2,34.7,0.175054704595186,58.7
 54105,West Virginia,Wirt County,2021-08-08,suppressed,6.3,18.9,9.2,10.5,5821,0,2021-08-08,West Virginia,WV,Wirt County,4.4,7.1,0.0087527352297593,58.7
 55003,Wisconsin,Ashland County,2021-08-08,suppressed,6.2,14.3,9.2,10.5,15562,0,2021-08-08,Wisconsin,WI,Ashland County,65.4,70.5,0.9306033135354799,58.7
 55037,Wisconsin,Florence County,2021-08-08,suppressed,5.5,9.8,9.2,10.5,4295,0,2021-08-08,Wisconsin,WI,Florence County,42.8,45.2,0.5120350109409191,58.7
