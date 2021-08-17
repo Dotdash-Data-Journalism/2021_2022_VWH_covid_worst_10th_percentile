@@ -79,7 +79,8 @@ fromJSON(file = "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?
          percent_uninsured_2019_US_avg,
          poverty_rate_2019_US_avg,
          total_population_2019) %>% 
-  mutate(fips_code = if_else(nchar(fips_code) < 5, paste0('0', as.character(fips_code)), as.character(fips_code)),
+  mutate(cases_per_100K_7_day_count_change = if_else(cases_per_100K_7_day_count_change == "suppressed", 0, as.double(cases_per_100K_7_day_count_change)),
+         fips_code = if_else(nchar(fips_code) < 5, paste0('0', as.character(fips_code)), as.character(fips_code)),
          Percentile_Covid = percent_rank(desc(cases_per_100K_7_day_count_change))) %>% 
   filter(Percentile_Covid <= .1) -> casesUninsurancePovertyCounty
 
