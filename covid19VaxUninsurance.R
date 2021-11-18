@@ -230,7 +230,7 @@ chartres <- PUT(url = "https://api.datawrapper.de/v3/charts/I3Kke/data",
 if (httr::status_code(chartres) %in% c(200, 201, 202, 204)) {
   print(paste0("Data in chart successfully updated.", "\n"))
 } else {
-  stop(paste0("There has been an error in the upload process. Statuscode of the response: ", httr::status_code(r)), immediate. = TRUE)
+  stop(paste0("There has been an error in the upload process. Statuscode of the response: ", httr::status_code(chartres)), immediate. = TRUE)
 }
 
 
@@ -265,5 +265,20 @@ if (httr::status_code(notes_res) %in% c(200, 201, 202, 204)) {
   print(paste0("Chart succesfully updated.", "\n"))
   
 } else {
-  stop(paste0("There has been an error in the upload process. Statuscode of the response: ", httr::status_code(r)), immediate. = TRUE)
+  stop(paste0("There has been an error in the title/subtitle alteration process. Statuscode of the response: ", httr::status_code(notes_res)), immediate. = TRUE)
+}
+
+publishRes <- POST(
+  url = "https://api.datawrapper.de/v3/charts/I3Kke",
+  add_headers(authorization = paste("Bearer", 
+                                    API_KEY, 
+                                    sep = " "))
+)
+
+if (httr::status_code(publishRes) %in% c(200, 201, 202, 204)) {
+  
+  print(paste0("Chart succesfully updated.", "\n"))
+  
+} else {
+  stop(paste0("There has been an error in the publish process. Statuscode of the response: ", httr::status_code(publishRes)), immediate. = TRUE)
 }
