@@ -269,7 +269,7 @@ if (httr::status_code(notes_res) %in% c(200, 201, 202, 204)) {
 }
 
 publishRes <- POST(
-  url = "https://api.datawrapper.de/v3/charts/I3Kke",
+  url = "https://api.datawrapper.de/v3/charts/I3Kke/publish",
   add_headers(authorization = paste("Bearer", 
                                     DW_API, 
                                     sep = " "))
