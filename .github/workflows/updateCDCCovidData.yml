@@ -4,7 +4,7 @@ name: vwWorstCovidUpdate
 
 on:
   schedule:
-    - cron: '30 18,23 * * *'
+    - cron: '30 23 * * *'
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
