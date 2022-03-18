@@ -37,7 +37,7 @@ read_excel('./all-geocodes-v2018.xlsx', skip = 4) %>%
 
 # Downloading Texas vaccine data from their Excel sheet...because Texas.
 download.file("https://dshs.texas.gov/immunize/covid19/COVID-19-Vaccine-Data-by-County.xls", 
-              destfile = "COVID-19 Vaccine Data by County.xlsx")
+              destfile = "./data/COVID-19 Vaccine Data by County.xlsx")
 Sys.sleep(5)
 # Cleaning and organizing the Texas vaccine by county data
 read_excel("./COVID-19 Vaccine Data by County.xlsx", skip = 4,
@@ -213,7 +213,7 @@ combo <- casesUninsurancePovertyCounty %>%
 # write_csv(raceComparison, "./chartData/raceComparison.csv")
 
 ### CSV for county map ###
-write_csv(combo, "./chartData/10thWorstPctCountyMap.csv")
+write_csv(combo, "./visualizations/10thWorstPctCountyMap.csv")
 Sys.sleep(5)
 ### Updating the Datawrapper Chart ###
 
