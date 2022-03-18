@@ -29,7 +29,7 @@ cdcVaxByCounty <- fromJSON(file = "https://covid.cdc.gov/covid-data-tracker/COVI
   rename(`FIPS-Code` = FIPS)
 
 # This is a lookup table for Texas counties that includes FIPS code and county name
-read_excel('./all-geocodes-v2018.xlsx', skip = 4) %>% 
+read_excel('./data/all-geocodes-v2018.xlsx', skip = 4) %>% 
   filter(`State Code (FIPS)` == "48", str_detect(`Area Name (including legal/statistical area description)`, "County")) %>% 
   mutate(`FIPS-Code` = paste0(`State Code (FIPS)`, `County Code (FIPS)`)) %>% 
   rename(County = `Area Name (including legal/statistical area description)`) %>% 
@@ -40,7 +40,7 @@ download.file("https://dshs.texas.gov/immunize/covid19/COVID-19-Vaccine-Data-by-
               destfile = "./data/COVID-19 Vaccine Data by County.xlsx")
 Sys.sleep(5)
 # Cleaning and organizing the Texas vaccine by county data
-read_excel("./COVID-19 Vaccine Data by County.xlsx", skip = 4,
+read_excel("./data/COVID-19 Vaccine Data by County.xlsx", skip = 4,
            sheet = "By County", col_names = F) %>% 
   select(`...1`, `...5`, `...6`, `...7`) %>% 
   mutate(Series_Complete_12PlusPop_Pct = (`...6` / `...7`) * 100,
@@ -48,7 +48,7 @@ read_excel("./COVID-19 Vaccine Data by County.xlsx", skip = 4,
          StateName = "Texas",
          StateAbbr = "TX") %>% 
   rename(County = `...1`) %>% 
-  mutate(County = paste(County, "County"), Date = base::as.Date(pull(read_excel("./COVID-19 Vaccine Data by County.xlsx", 
+  mutate(County = paste(County, "County"), Date = base::as.Date(pull(read_excel("./data/COVID-19 Vaccine Data by County.xlsx", 
                                                              range = "B2", col_names = F)))) %>% 
   select(-c(`...5`, `...6`, `...7`)) %>% 
   left_join(txCounties, by = "County") %>% 
